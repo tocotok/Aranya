@@ -17,8 +17,10 @@
 | **Elementare Heiligtümer** | Heilige Stätten der Elemente in den Reichen; werden von Rakta besetzt. | Kap. 1, 5.3, 6 |
 | **Erste Hüter** 🔒 | Die fünf mächtigen Wesen, die in Niraya über die fünf Elemente wachten: Dharan, Varuni, Agnar, Vayu, Ishvar. | Kap. 2.1 |
 | **Ewigkeit** 🔒 | Kein Element, sondern die Fortdauer der Existenz über jede Veränderung hinweg. Symbolik: Fortdauer, Wiederkehr. Magie: Erneuerung und Fortsetzung des Kreislaufs. Verkörpert durch Kiran. | Kap. 2.1 |
+| **Fragment Dharans** 🔒 | Fragment der ursprünglichen Kraft des Erdhüters Dharan in den Wurzeln des heiligen Baumes in Kirans Heimatdorf; bewahrt Erinnerungen aus Niraya, erkennt Kiran und warnt ihn. Ziel des Angriffs Raktas. | Kap. 11.3 |
 | **Feuer** | Element Raktas. Symbolik: Veränderung, Erneuerung. Magie: Zerstörung, Transformation, Energie. | Kap. 2.1 |
 | **Gastmitglied** | Figur, die nur zeitweise spielbar ist. Das Spiel hat zwei Gastmitglieder neben acht festen Gruppenmitgliedern. | Kopfdaten |
+| **Einrichtungen des Großen Rades** 🔒 | Nicht näher beschriebene Einrichtungen, mit deren Hilfe Ishvar die Erinnerungen einer lebend gefangenen Inkarnation Kirans unterdrücken kann. | Kap. 11.1 (R-04) |
 | **Großes Rad** | Volksglaube: der verehrte Kreislauf von Geburt, Tod und Wiedergeburt. 🔒 Wahrheit: ein künstlicher Kreislauf, erschaffen von den Hütern nach dem Großen Verstummen. | Kap. 1, 2.3 |
 | **Großes Verstummen** 🔒 | Katastrophe am Ende Nirayas, bei der Tiere, Pflanzen und schließlich Menschen ihre Verbindung zum Leben verloren. Ursache unbekannt. | Kap. 2.2 |
 | **Herz des Großen Rades** 🔒 | Ort des Finales; enthält die Überreste unzähliger Bewusstseine. | Kap. 6 (Akt IV) |
@@ -28,9 +30,12 @@
 | **Mira** | Junge Tempelwächterin; Gefährtin Kirans ab Akt I. | Kap. 6 |
 | **Namaru** | Dorf, dessen Bewohner seit Jahrhunderten im selben Dorf wiedergeboren werden und sich erinnern. | Kap. 6 (Akt II) |
 | **Niraya** 🔒 | Das einzige Reich des ersten Zeitalters, vor mehr als 3000 Jahren; in offiziellen Geschichtsbüchern nicht erwähnt. | Kap. 2.1 |
+| **Orden der Stillen Winde** | Alter religiöser Orden Avelas, Tavans ehemalige Gemeinschaft; hütet Aufzeichnungen und hält bestimmte Überlieferungen geheim. | Kap. 10.1 |
 | **Rakta** | Reich des Feuers; Vulkane, Metall, Mechanik; fortschrittlichste Militärtechnik; von einer Königin regiert. | Kap. 5.3 |
 | **Sahira** | Reich des Wassers; Lagunen, Kanäle, schwimmende Märkte; wirtschaftlich bedeutendstes Reich. | Kap. 5.2 |
-| **Tavan** | Gruppenmitglied, dessen Orden seit Jahrhunderten Teile der Wahrheit kennt. | Kap. 6 (Akt III) |
+| **Störung im Äther** 🔒 | Entsteht, wenn Kirans ursprüngliche Kraft aktiviert wird; die einzige Möglichkeit für Ishvar, eine Inkarnation Kirans wahrzunehmen. | Kap. 11.1 (R-02) |
+| **Tavan** | Älterer Mönch aus Avela, ehemals Lehrer des Ordens der Stillen Winde; festes Gruppenmitglied ab Ende Akt II. | Kap. 10.1 |
+| **Türme aus weißem Stein** 🔒 | Bild aus Kirans wiederkehrendem Traum; Erinnerung an Niraya. | Kap. 4, 8 |
 | **Vanara** | Reich der Erde; Urwälder und Baumstädte; Startgebiet des Spiels. | Kap. 5.1 |
 | **Varuni** 🔒 | Erste Hüterin des Wassers; opferte sich für das Große Rad; verband ihre Energie mit den Gewässern. | Kap. 2.3 |
 | **Wasser** | Element Sahiras. Symbolik: Bewusstsein, Wandel. Magie: Heilung, Wahrnehmung, Erinnerungen. | Kap. 2.1 |

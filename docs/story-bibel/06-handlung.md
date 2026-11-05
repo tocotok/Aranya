@@ -37,9 +37,13 @@ Dann spricht der Baum zu Kiran.
 
 Kiran versteht die Bedeutung dieser Worte nicht.
 
+> **Hintergrund (0.2):** In den Wurzeln des Baumes liegt ein Fragment der Kraft Dharans. Es erkennt Kiran und warnt ihn – und löst dabei die Störung im Äther aus, durch die Ishvar aufmerksam wird. → [Kapitel 11.3](11-ishvar-und-die-inkarnationen.md#113-der-heilige-baum-im-heimatdorf)
+
 Noch in derselben Nacht greifen Soldaten aus Rakta das Dorf an.
 
-Sie suchen nach einem uralten Gegenstand, der angeblich unter den Wurzeln des Baumes verborgen liegt. → [Offene Frage 5](09-offene-fragen.md)
+Sie suchen nach einem uralten Gegenstand, der angeblich unter den Wurzeln des Baumes verborgen liegt.
+
+> **Hintergrund (0.2):** Die Soldaten sollen das Fragment Dharans sicherstellen und mögliche Träger ungewöhnlicher elementarer Kräfte festsetzen – nicht töten. Sie kennen Kirans Identität nicht. Der Angriff wurde durch Ishvars Einfluss auf Rakta veranlasst und eskaliert, weil die Dorfbewohner den Zugang zum Baum verweigern. Das Dorf wird schwer beschädigt. → [Kapitel 11.5](11-ishvar-und-die-inkarnationen.md#115-der-angriff-auf-das-heimatdorf)
 
 Kiran entkommt gemeinsam mit **Mira**, einer jungen Tempelwächterin, und **Daren**, einem desertierten Soldaten aus Rakta.
 
@@ -51,9 +55,13 @@ Während ihrer Reise begegnen sie erstmals den Veränderungen der Natur.
 
 Wälder scheinen sich über Nacht zu verschieben. Tiere greifen ohne erkennbaren Grund an. Menschen berichten von Erinnerungen, die nicht ihre eigenen sind.
 
+An einem kleinen Schrein begegnet die Gruppe einem älteren meditierenden Mönch: **Tavan** aus Avela. Die Pflanzen um den Schrein sind abgestorben, obwohl der Boden fruchtbar und feucht ist. Als Tavan Kiran begegnet, reagiert der Schrein ungewöhnlich – Tavan kann es nicht erklären. Er gibt der Gruppe einen Hinweis auf einen alten Tempel und reist weiter. Er ist noch nicht spielbar. → [Kapitel 10.1](10-gruppe.md#101-tavan)
+
 Ein freundlicher reisender Gelehrter namens **Ishvar** begegnet der Gruppe und hilft ihr bei der Entschlüsselung einer alten Inschrift.
 
 Seine wahre Identität bleibt verborgen.
+
+> **Hintergrund (0.2):** Ishvar vermutet, dass Kiran die Ewigkeit verkörpert, und überprüft seinen Verdacht verdeckt. Er verzichtet bewusst auf eine Gefangennahme. → [Kapitel 11.6](11-ishvar-und-die-inkarnationen.md#116-warum-ishvar-kiran-in-akt-i-freundlich-begegnet)
 
 Am Ende des ersten Aktes erfährt die Gruppe, dass Rakta mehrere elementare Heiligtümer gleichzeitig besetzen will.
 
@@ -67,8 +75,9 @@ Aus einer persönlichen Flucht wird eine Reise, die einen Krieg verhindern soll.
 4. Nächtlicher Angriff Raktas auf das Dorf; Suche nach dem Gegenstand unter den Wurzeln.
 5. Flucht mit Mira und Daren.
 6. Reise zur nächsten größeren Stadt; erste Naturanomalien.
-7. Begegnung mit dem Gelehrten Ishvar; Entschlüsselung einer alten Inschrift.
-8. Aktende: Raktas Plan zur gleichzeitigen Besetzung mehrerer Heiligtümer wird bekannt.
+7. Erste Begegnung mit Tavan am Schrein; der Schrein reagiert auf Kiran; Hinweis auf einen alten Tempel.
+8. Begegnung mit dem Gelehrten Ishvar; Entschlüsselung einer alten Inschrift.
+9. Aktende: Raktas Plan zur gleichzeitigen Besetzung mehrerer Heiligtümer wird bekannt.
 
 ---
 
@@ -83,6 +92,8 @@ Sie erlebt die politischen und gesellschaftlichen Unterschiede der Reiche und ge
 Weitere Charaktere schließen sich der Gruppe an.
 
 In **Sahira** entdeckt die Gruppe Hinweise darauf, dass Erinnerungen Verstorbener in bestimmten Gewässern erhalten bleiben.
+
+Dort trifft sie **Tavan** erneut, der ähnliche Naturphänomene untersucht und alte Aufzeichnungen vergleicht. Als die Gruppe ihm von Niraya erzählt, reagiert er auffällig zurückhaltend. Er gesteht, dass sein Orden diesen Namen kennt, verweigert aber zunächst weitere Auskünfte. Sein Vertrauen zur Gruppe wächst im Verlauf des Aktes.
 
 In **Rakta** erfährt sie, dass die Regierung seit Jahren den zunehmenden Verfall der elementaren Energien untersucht.
 
@@ -120,14 +131,18 @@ Offizielle Geschichtsbücher erwähnen dieses Reich nicht.
 
 Am Ende des zweiten Aktes entdeckt die Gruppe, dass die vier heutigen Reiche aus den Überresten einer einzigen ursprünglichen Welt entstanden sind.
 
+Ebenfalls am Ende des zweiten Aktes **schließt sich Tavan der Gruppe dauerhaft an** und wird spielbar.
+
+> **Hintergrund (0.2):** Spätestens am Ende von Akt II ist Ishvar sicher, dass Kiran die Ewigkeit verkörpert. Er lässt ihn dennoch weiterreisen, weil er hofft, durch Kirans erwachende Erinnerungen Zugang zu Orten und Wissen Nirayas zu erhalten, die ihm selbst verschlossen sind. → [Kapitel 11.7](11-ishvar-und-die-inkarnationen.md#117-ishvars-erkenntnis--ende-akt-ii)
+
 ### Schlüsselereignisse Akt II
 
-1. Reise durch Sahira: politische Machtkämpfe; Erinnerungen Verstorbener in bestimmten Gewässern.
+1. Reise durch Sahira: politische Machtkämpfe; Erinnerungen Verstorbener in bestimmten Gewässern; zweite Begegnung mit Tavan.
 2. Neue Gruppenmitglieder treten bei.
 3. Reise durch Rakta: Forschung zum Verfall der elementaren Energien; Motive der Königin.
 4. Namaru – **Spielerentscheidung**: Kreislauf beenden oder bestehen lassen.
 5. Hinweise auf Niraya, das in offiziellen Geschichtsbüchern fehlt.
-6. Aktende: Die vier Reiche entstanden aus einer einzigen ursprünglichen Welt.
+6. Aktende: Die vier Reiche entstanden aus einer einzigen ursprünglichen Welt; Tavan tritt der Gruppe dauerhaft bei.
 
 ---
 
@@ -135,7 +150,9 @@ Am Ende des zweiten Aktes entdeckt die Gruppe, dass die vier heutigen Reiche aus
 
 **Geplante Spielzeit:** 25–40 Stunden
 
-Die Gruppe reist nach **Avela**, um in den alten Klosterarchiven nach Informationen über Niraya zu suchen.
+Die Gruppe reist unter **Tavans** Führung nach **Avela**, um in den alten Klosterarchiven nach Informationen über Niraya zu suchen.
+
+Die Führung des Ordens der Stillen Winde verweigert Tavan die Einsicht in die ältesten Archive und verlangt, dass er seine Nachforschungen einstellt. Tavan bricht seinen Eid, hilft der Gruppe und wird aus dem Orden ausgeschlossen. → [Kapitel 10.1](10-gruppe.md#persönlicher-konflikt--akt-iii)
 
 Dort erfährt sie erstmals vom **Großen Verstummen**.
 
@@ -185,7 +202,7 @@ Diese Erkenntnis wurde jedoch aus seinem Gedächtnis entfernt.
 
 ### Schlüsselereignisse Akt III
 
-1. Ankunft in Avela; Klosterarchive.
+1. Ankunft in Avela; die Ordensführung verweigert die Archive; Tavan bricht mit seinem Orden und wird ausgeschlossen.
 2. Enthüllung: das Große Verstummen; das Rad ist künstlich; die vier Opfer; Ishvar als fünfter Hüter.
 3. Erkenntnis: Der Gelehrte ist Ishvar.
 4. Kirans Erinnerungen kehren zurück; Enthüllung seiner Natur als Ewigkeit.

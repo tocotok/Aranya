@@ -18,7 +18,7 @@
 
 ### Story-Bibel (kanonischer Text)
 
-Die Story-Bibel ist die **verbindliche Quelle** für Welt, Figuren und Handlung. Die Kapitelnummern entsprechen der Originalgliederung.
+Die Story-Bibel ist die **verbindliche Quelle** für Welt, Figuren und Handlung. Die Kapitel 1–9 entsprechen der Originalgliederung; ab Kapitel 10 folgen spätere Ergänzungen.
 
 | Nr. | Kapitel | Spoiler-Stufe |
 |---|---|---|
@@ -31,6 +31,8 @@ Die Story-Bibel ist die **verbindliche Quelle** für Welt, Figuren und Handlung.
 | 7 | [Zentrale Themen](docs/story-bibel/07-themen.md) | Mittel |
 | 8 | [Erzählerische Leitlinien](docs/story-bibel/08-erzaehlerische-leitlinien.md) | Gering |
 | 9 | [Noch offene Fragen](docs/story-bibel/09-offene-fragen.md) | **Hoch** |
+| 10 | [Die Gruppe (Tavan)](docs/story-bibel/10-gruppe.md) | Mittel bis hoch |
+| 11 | [Ishvar und Kirans Inkarnationen – Handlungslogik](docs/story-bibel/11-ishvar-und-die-inkarnationen.md) | **Hoch** |
 
 ### Referenz (abgeleitete Übersichten)
 

@@ -30,9 +30,9 @@ In einem früheren Leben gelang es ihm beinahe, das Rad zu zerstören. **Dabei s
 
 Ishvar verhinderte damals den vollständigen Zusammenbruch.
 
-Seit diesem Ereignis versucht Ishvar, jede neue Inkarnation Kirans möglichst früh zu finden und zu kontrollieren. → [Offene Frage 4](09-offene-fragen.md)
+Seit diesem Ereignis versucht Ishvar, jede neue Inkarnation Kirans möglichst früh zu finden und zu kontrollieren. Er erkennt eine Inkarnation allerdings erst, wenn Kirans ursprüngliche Kraft aktiviert wird und eine Störung im Äther entsteht. → [Kapitel 11](11-ishvar-und-die-inkarnationen.md)
 
-Er kann Kiran töten und seine Erinnerungen unterdrücken, aber seine Wiedergeburt nicht verhindern.
+Er kann Kiran töten und – nur unter bestimmten Bedingungen – seine Erinnerungen unterdrücken, aber seine Wiedergeburt nicht verhindern. *(Präzisiert in 0.2, siehe Regel R-04)*
 
 Denn Kirans Existenz ist nicht von Ishvars Willen abhängig.
 
@@ -63,9 +63,12 @@ Er trägt die Verantwortung für Entscheidungen, an die er sich nicht erinnern k
 
 | Kann | Kann nicht |
 |---|---|
-| Ihn töten | Seine Wiedergeburt verhindern |
-| Seine Erinnerungen unterdrücken | Kirans Existenz von seinem Willen abhängig machen |
-| Neue Inkarnationen suchen und kontrollieren | |
+| Ihn töten | Seine Wiedergeburt verhindern (R-05) |
+| Seine Erinnerungen unterdrücken – **nur** mithilfe bestimmter Einrichtungen des Großen Rades, wenn er Kiran **lebend** in seiner Gewalt hat; aufwendig und riskant (R-04) | Seine Erinnerungen jederzeit nach Belieben löschen (R-04) |
+| Die Aktivierung von Kirans Kraft als Störung im Äther wahrnehmen (R-02) | Inkarnationen unmittelbar erkennen (R-01) |
+| Neue Inkarnationen suchen und kontrollieren, sobald er sie wahrgenommen hat | Kirans Existenz von seinem Willen abhängig machen |
+
+Die vollständigen Regeln stehen in [Kapitel 11.1](11-ishvar-und-die-inkarnationen.md#111-verbindliche-regeln-der-mythologie).
 
 ## Bekannte frühere Inkarnationen
 
@@ -76,3 +79,10 @@ Er trägt die Verantwortung für Entscheidungen, an die er sich nicht erinnern k
 | Einige | Entdeckte seine wahre Herkunft | Kanon |
 | Mehrere | Versuchte, das Rad zu beenden | Kanon |
 | Eines | Rad beinahe zerstört, Hunderttausende Tote, Ishvar verhindert den Zusammenbruch | Kanon (Zeitpunkt, Ort, Umstände offen) |
+| Einige | Kraft erwachte in der Kindheit | Kanon (0.2) |
+| Einige | Kraft erwachte erst im Erwachsenenalter | Kanon (0.2) |
+| Einige | Blieben Ishvar vollständig unbekannt | Kanon (0.2) |
+
+## Wiederkehrender Traum
+
+Kiran berichtet gelegentlich von einem wiederkehrenden Traum: eine unbekannte **Stadt mit hohen Türmen aus weißem Stein**. Er kann sich nicht erklären, woher diese Bilder stammen. Erst in Akt III erkennt der Spieler, dass es Erinnerungen an **Niraya** sind. *(Festgelegt in 0.2)*

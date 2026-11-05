@@ -10,7 +10,7 @@ Festgelegt (Version 0.2): **8 feste spielbare Charaktere** und **2 Gastmitgliede
 
 | Kategorie | Anzahl | Bekannt | Offen |
 |---|---|---|---|
-| Feste Gruppenmitglieder | 8 | 4 (Kiran, Mira, Daren, Tavan) | 4 |
+| Feste Gruppenmitglieder | 8 | 4 (Kiran, Mira, Daren, Tavan) – ausgearbeitet: Kiran (Kap. 4), Tavan (Kap. 10.1) | 4 |
 | Gastmitglieder (zeitweise spielbar) | 2 | 0 | 2 |
 
 ### Feste Gruppenmitglieder
@@ -20,7 +20,7 @@ Festgelegt (Version 0.2): **8 feste spielbare Charaktere** und **2 Gastmitgliede
 | **Kiran** | Protagonist, Kurier (ca. 19) – in Wahrheit Inkarnation der Ewigkeit | Dorf am Rand des großen Waldes, Vanara | Akt I (Start) | Verantwortung für Taten früherer Leben; gebunden oder frei? | Kap. 4, 6, 7 |
 | **Mira** | Junge Tempelwächterin | Kirans Heimatdorf (vermutlich, siehe [K-04](../pflege/konsistenz-notizen.md)) | Akt I (Flucht aus dem Dorf) | Glaube vs. Institutionen, die den Glauben benutzen | Kap. 6, 7 |
 | **Daren** | Desertierter Soldat aus Rakta | Rakta | Akt I (Flucht aus dem Dorf) | Sucht Vergebung für nicht rückgängig zu machende Taten; Verantwortung für den Krieg | Kap. 6, 7 |
-| **Tavan** | Mitglied eines Ordens, der seit Jahrhunderten Teile der Wahrheit kennt | – (vermutlich Avela, siehe [K-02](../pflege/konsistenz-notizen.md)) | – (spätestens vor Akt III) | Geständnis über das Wissen seines Ordens | Kap. 6 (Akt III) |
+| **Tavan** | Älterer Mönch, ehemals angesehener Lehrer des Ordens der Stillen Winde; Kampffunktion: Mönch (Körpertechnik + spirituelle Fähigkeiten) | Avela | Begegnungen in Akt I (Vanara) und Akt II (Sahira); **dauerhafter Beitritt Ende Akt II** | Eid gegenüber dem Orden vs. Wahrheit; wird in Akt III ausgeschlossen | Kap. 10.1 |
 | *4 weitere* | – | – | Ab Akt II („Weitere Charaktere schließen sich der Gruppe an“) | – | Kap. 6, offene Frage 9 |
 
 ### Gastmitglieder
@@ -36,7 +36,7 @@ Zwei Figuren, die nur in bestimmten Abschnitten spielbar sind. Identität, Zeitr
 
 | Figur | Rolle | Erscheinungsform | Quelle |
 |---|---|---|---|
-| **Ishvar** | Hüter des Äthers, Bewahrer des Großen Rades, zentraler Antagonist | Akt I–II: freundlicher reisender Gelehrter; ab Akt III: offener Gegenspieler | Kap. 2, 3, 6 |
+| **Ishvar** | Hüter des Äthers, Bewahrer des Großen Rades, zentraler Antagonist; verdeckter Einfluss auf Rakta | Akt I–II: freundlicher reisender Gelehrter, überprüft verdeckt seinen Verdacht gegenüber Kiran; spätestens Ende Akt II sicher; ab Akt III: offener Gegenspieler | Kap. 2, 3, 6, 11 |
 
 ## Die sechs ursprünglichen Wesen
 
@@ -46,7 +46,7 @@ Zwei Figuren, die nur in bestimmten Abschnitten spielbar sind. Identität, Zeitr
 | **Varuni** | Wasser | Opferte ihre Existenz; Energie mit den Gewässern verbunden |
 | **Agnar** | Feuer | Opferte seine Existenz; Kraft in Vulkane und das innere Feuer der Welt |
 | **Vayu** | Wind | Opferte seine Existenz; mit den Strömungen der Atmosphäre verbunden |
-| **Ishvar** | Äther | Blieb als Bewahrer; verbindet die vier Kräfte und überwacht das Rad |
+| **Ishvar** | Hüter des Äthers, Bewahrer des Großen Rades, zentraler Antagonist; verdeckter Einfluss auf Rakta | Akt I–II: freundlicher reisender Gelehrter, überprüft verdeckt seinen Verdacht gegenüber Kiran; spätestens Ende Akt II sicher; ab Akt III: offener Gegenspieler | Kap. 2, 3, 6, 11 |
 | **Kiran** | Ewigkeit (kein Element) | Teil des Rades; behält individuelle Existenz; wird immer wieder als Sterblicher geboren |
 
 ## Weitere benannte oder erwähnte Figuren
@@ -54,8 +54,10 @@ Zwei Figuren, die nur in bestimmten Abschnitten spielbar sind. Identität, Zeitr
 | Figur | Rolle | Quelle |
 |---|---|---|
 | **Die Königin von Rakta** | Herrscherin Raktas; weiß um die Instabilität des Rades; will die vier Heiligtümer bündeln. Gewaltsame Methoden, begründete Befürchtungen. Name: – | Kap. 6 (Akt II), offene Frage 6 |
-| **Der heilige Baum (Heimatdorf)** | Spricht zu Kiran: „Diesmal darfst du dich nicht erinnern.“ | Kap. 6 (Akt I) |
+| **Der heilige Baum (Heimatdorf)** | Birgt in seinen Wurzeln ein **Fragment der Kraft Dharans**, das Erinnerungen aus Niraya bewahrt. Erkennt Kiran und warnt ihn: „Diesmal darfst du dich nicht erinnern.“ Dorfbewohner erzählen, er spreche manchmal im Schlaf. | Kap. 6 (Akt I), 8, 11.3 |
 | **Der uralte Baum von Namaru** | Bewahrt das Bewusstsein der Dorfbewohner, entzieht der Natur Bewusstsein | Kap. 6 (Akt II) |
 | **Die Bewohner Namarus** | Werden seit Jahrhunderten im selben Dorf wiedergeboren und erinnern sich | Kap. 6 (Akt II) |
 | **Mönche Avelas** | Kennen Fragmente der wahren Geschichte, halten sie zurück | Kap. 5.4 |
+| **Orden der Stillen Winde** | Einer der ältesten religiösen Orden Aranyas (Avela); bewahrt Aufzeichnungen bis in die ersten Jahrhunderte nach dem Großen Verstummen; kennt den Namen Niraya, nicht die ganze Wahrheit; oberste Regel: bestimmte Überlieferungen nicht weitergeben. Schließt Tavan in Akt III aus. | Kap. 10.1 |
+| **Soldaten Raktas (Dorfangriff)** | Auftrag: Fragment Dharans sichern, Träger ungewöhnlicher Kräfte festsetzen, nicht töten; kennen Kirans Identität nicht | Kap. 11.5 |
 | **Magier Sahiras** | Können im Wasser zurückgebliebene Erinnerungen wahrnehmen | Kap. 5.2 |

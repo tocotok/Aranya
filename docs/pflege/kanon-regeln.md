@@ -39,3 +39,14 @@ Jedes Kapitel trägt eine Spoiler-Stufe, damit Inhalte gezielt an Personen weite
 - **Gering** – Wissen, das der Spieler in den ersten Stunden erhält.
 - **Mittel** – Wissen aus dem Verlauf von Akt I–II.
 - **Hoch** – Hintergrundwahrheiten und Enthüllungen aus Akt III–IV.
+
+## 6. Verbindliche Regeln der Mythologie
+
+Bestimmte Festlegungen sind als **Regeln** markiert (Kennung `R-xx`, derzeit in [Kapitel 11.1](../story-bibel/11-ishvar-und-die-inkarnationen.md#111-verbindliche-regeln-der-mythologie)). Für sie gilt:
+
+- Sie dürfen im weiteren Verlauf der Geschichte **nicht ohne ausdrückliche Neufestlegung** aufgehoben oder umgangen werden – auch nicht für einzelne Szenen.
+- Eine Neufestlegung wird im Änderungsprotokoll als **Kanon-Änderung** vermerkt und nennt die betroffene Regel.
+
+## 7. Ersetzte Aussagen
+
+Wenn eine neue Festlegung frühere Aussagen ersetzt, wird die alte Stelle in der Story-Bibel angepasst und mit *(präzisiert in x.y)* oder einem Verweis auf das neue Kapitel markiert. So bleibt nachvollziehbar, was sich geändert hat.

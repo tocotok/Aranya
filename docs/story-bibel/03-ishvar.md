@@ -66,3 +66,5 @@ Dabei hat er längst vergessen, dass das Rad ursprünglich nur eine vorübergehe
 - Er **lügt nicht bewusst** über die Folgen des Endes des Rades – er hat die Wahrheit vor sich selbst verborgen.
 - Sein gebrochenes Versprechen: Das Rad zu bewahren, *bis die Welt wieder ohne es existieren kann*.
 - Im Spiel tritt er zunächst als **freundlicher reisender Gelehrter** auf (Akt I), offen als Gegenspieler ab Akt III.
+- Seine Freundlichkeit als Gelehrter ist **nicht vollständig vorgetäuscht**: Er fühlt sich Kiran durch ihre gemeinsame Vergangenheit verbunden und sieht in ihm zugleich eine Bedrohung für das Rad und seine Macht. Er nutzt die Gruppe gezielt, um an verlorenes Wissen Nirayas zu gelangen. → [Kapitel 11](11-ishvar-und-die-inkarnationen.md)
+- Er übt erheblichen verdeckten Einfluss auf politische und militärische Entscheidungen Raktas aus. → [Kapitel 11.4](11-ishvar-und-die-inkarnationen.md#114-warum-ishvar-erst-jetzt-aufmerksam-wird)

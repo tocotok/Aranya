@@ -17,6 +17,20 @@ Diese Leitlinien gelten für alle Inhalte, die aus der Story-Bibel entstehen –
 - Die großen Enthüllungen müssen sorgfältig vorbereitet werden.
 - Hinweise auf Niraya, die Natur des Großen Rades und Kirans Vergangenheit sollen **bereits früh auftauchen**, ohne ihre Bedeutung sofort preiszugeben.
 
+### Frühe Hinweise auf Kirans Vergangenheit *(festgelegt in 0.2)*
+
+- Bereits in den ersten Spielstunden tauchen unauffällige Hinweise auf Kirans wahre Identität auf.
+- Dorfbewohner erzählen, dass der heilige Baum **manchmal im Schlaf spricht**. Die meisten halten das für alte Legenden.
+- Kiran berichtet gelegentlich von **wiederkehrenden Träumen** von einer unbekannten **Stadt mit hohen Türmen aus weißem Stein**. Er kann sich nicht erklären, woher diese Bilder stammen.
+- Erst in Akt III erkennt der Spieler, dass es Erinnerungen an Niraya sind.
+
+### Frühe Hinweise auf Ishvars wahre Identität *(festgelegt in 0.2)*
+
+- Ishvar weiß schon bei der ersten Begegnung ungewöhnlich viel über alte Tempel, historische Ereignisse und elementare Phänomene. Das wirkt zunächst wie die Kenntnis eines außergewöhnlich gebildeten Gelehrten.
+- Gelegentlich verwendet er Formulierungen, die darauf hindeuten, dass er bestimmte historische Ereignisse **selbst erlebt** hat.
+- Spricht die Gruppe ihn darauf an, weicht er aus oder erklärt, er zitiere aus alten Überlieferungen.
+- **Beim ersten Durchspielen** soll sein Verhalten nicht unmittelbar verdächtig wirken. **Bei einem erneuten Durchlauf** sollen seine Aussagen eine deutlich andere Bedeutung erhalten.
+
 ## Moral
 
 - Nicht jeder Gegner handelt aus Bosheit.

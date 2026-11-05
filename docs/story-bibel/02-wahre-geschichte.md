@@ -1,6 +1,6 @@
 # 2. Die wahre Geschichte der Welt
 
-> Story-Bibel · Version 0.1 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.2 · Spoiler-Stufe: **hoch**
 >
 > Dieser Abschnitt beschreibt die tatsächliche Mythologie Aranyas. Der Spieler erfährt diese Zusammenhänge erst schrittweise im Verlauf der Handlung.
 
@@ -17,6 +17,21 @@ Die Welt wurde von fünf grundlegenden Elementen durchdrungen:
 - **Feuer** – Zerstörung, Transformation und Erneuerung
 - **Wind** – Freiheit, Bewegung und Loslassen
 - **Äther** – Verbindung zwischen Materie und Bewusstsein
+
+### Symbolik und magische Funktion der Kräfte
+
+*(Festgelegt in Version 0.2)*
+
+| Kraft | Symbolische Bedeutung | Magische Funktion |
+|---|---|---|
+| **Erde** | Erinnerung, Beständigkeit | Wachstum, Schutz, materielle Form, gespeicherte Vergangenheit |
+| **Wasser** | Bewusstsein, Wandel | Heilung, Wahrnehmung, Erinnerungen |
+| **Feuer** | Veränderung, Erneuerung | Zerstörung, Transformation, Energie |
+| **Wind** | Freiheit, Loslassen | Bewegung, Geschwindigkeit, Übergänge |
+| **Äther** | Verbindung, Einheit | Verknüpfung der Elemente und Bewusstseine |
+| **Ewigkeit** | Fortdauer, Wiederkehr | Erneuerung und Fortsetzung des Kreislaufs |
+
+> Die Ewigkeit ist **kein Element**, sondern eine eigenständige Kraft (siehe unten). Sie steht in der Tabelle, weil sie als sechste Kraft neben den fünf Elementen wirkt.
 
 Über diese Elemente wachten fünf mächtige Wesen, die sogenannten **Ersten Hüter**.
 

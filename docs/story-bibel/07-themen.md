@@ -1,6 +1,6 @@
 # 7. Zentrale Themen
 
-> Story-Bibel · Version 0.1 · Spoiler-Stufe: mittel
+> Story-Bibel · Version 0.2 · Spoiler-Stufe: mittel
 
 Die Geschichte von Aranya behandelt vor allem **Vergänglichkeit, Identität, Verantwortung und die moralischen Grenzen von Macht**.
 

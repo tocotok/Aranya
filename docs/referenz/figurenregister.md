@@ -1,12 +1,19 @@
 # Figurenregister
 
-> Abgeleitete Übersicht · Stand: Story-Bibel 0.1 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
+> Abgeleitete Übersicht · Stand: Story-Bibel 0.2 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
 >
 > Einträge mit „–“ sind im Kanon noch nicht festgelegt.
 
 ## Spielbare Gruppe
 
-Geplant sind **bis zu 10** spielbare Charaktere. Bisher bekannt:
+Festgelegt (Version 0.2): **8 feste spielbare Charaktere** und **2 Gastmitglieder**, die nur zeitweise spielbar sind.
+
+| Kategorie | Anzahl | Bekannt | Offen |
+|---|---|---|---|
+| Feste Gruppenmitglieder | 8 | 4 (Kiran, Mira, Daren, Tavan) | 4 |
+| Gastmitglieder (zeitweise spielbar) | 2 | 0 | 2 |
+
+### Feste Gruppenmitglieder
 
 | Figur | Rolle | Herkunft | Beitritt | Persönlicher Konflikt | Quelle |
 |---|---|---|---|---|---|
@@ -14,7 +21,16 @@ Geplant sind **bis zu 10** spielbare Charaktere. Bisher bekannt:
 | **Mira** | Junge Tempelwächterin | Kirans Heimatdorf (vermutlich, siehe [K-04](../pflege/konsistenz-notizen.md)) | Akt I (Flucht aus dem Dorf) | Glaube vs. Institutionen, die den Glauben benutzen | Kap. 6, 7 |
 | **Daren** | Desertierter Soldat aus Rakta | Rakta | Akt I (Flucht aus dem Dorf) | Sucht Vergebung für nicht rückgängig zu machende Taten; Verantwortung für den Krieg | Kap. 6, 7 |
 | **Tavan** | Mitglied eines Ordens, der seit Jahrhunderten Teile der Wahrheit kennt | – (vermutlich Avela, siehe [K-02](../pflege/konsistenz-notizen.md)) | – (spätestens vor Akt III) | Geständnis über das Wissen seines Ordens | Kap. 6 (Akt III) |
-| *weitere* | – | – | Ab Akt II („Weitere Charaktere schließen sich der Gruppe an“) | – | Kap. 6, offene Frage 9 |
+| *4 weitere* | – | – | Ab Akt II („Weitere Charaktere schließen sich der Gruppe an“) | – | Kap. 6, offene Frage 9 |
+
+### Gastmitglieder
+
+Zwei Figuren, die nur in bestimmten Abschnitten spielbar sind. Identität, Zeitraum und Grund der begrenzten Spielbarkeit: offen (Frage 9).
+
+| Figur | Rolle | Spielbar in | Quelle |
+|---|---|---|---|
+| *Gast 1* | – | – | Offene Frage 9 |
+| *Gast 2* | – | – | Offene Frage 9 |
 
 ## Antagonist
 

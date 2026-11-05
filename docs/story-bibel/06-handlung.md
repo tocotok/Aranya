@@ -1,6 +1,6 @@
 # 6. Die Handlung des Spiels
 
-> Story-Bibel · Version 0.1 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.2 · Spoiler-Stufe: **hoch**
 
 ## Aktübersicht
 

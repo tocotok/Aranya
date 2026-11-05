@@ -1,6 +1,6 @@
 # 4. Kiran – Die Ewigkeit
 
-> Story-Bibel · Version 0.1 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.2 · Spoiler-Stufe: **hoch**
 
 Kiran ist der **Protagonist** des Spiels.
 

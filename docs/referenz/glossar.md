@@ -1,6 +1,6 @@
 # Glossar
 
-> Abgeleitete Übersicht · Stand: Story-Bibel 0.1 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
+> Abgeleitete Übersicht · Stand: Story-Bibel 0.2 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
 >
 > **Spoiler-Hinweis:** Einträge mit 🔒 enthalten Wissen, das der Spieler erst im Verlauf der Handlung erhält.
 
@@ -8,14 +8,17 @@
 |---|---|---|
 | **Agnar** 🔒 | Erster Hüter des Feuers; opferte sich für das Große Rad; seine Kraft ging in die Vulkane und das innere Feuer der Welt über. | Kap. 2.3 |
 | **Aranya** | Die Welt des Spiels, bestehend aus den vier Reichen Vanara, Sahira, Rakta und Avela. | Kap. 1 |
-| **Äther** 🔒 | Fünftes Element; Verbindung zwischen Materie und Bewusstsein. Hüter: Ishvar. | Kap. 2.1 |
+| **Äther** 🔒 | Fünftes Element; Verbindung zwischen Materie und Bewusstsein. Symbolik: Verbindung, Einheit. Magie: Verknüpfung der Elemente und Bewusstseine. Hüter: Ishvar. | Kap. 2.1 |
 | **Avela** | Reich des Windes; Gebirge und schwebende Felsen; von Orden verwaltet; Hüterin alter Überlieferungen. | Kap. 5.4 |
 | **Bewusstseinsfragmente** 🔒 | Die im Rad zirkulierende geistige Substanz; ihre Zahl nimmt mit jeder Wiedergeburt ab. | Kap. 2.4 |
 | **Daren** | Desertierter Soldat aus Rakta; Gefährte Kirans ab Akt I. | Kap. 6 |
 | **Dharan** 🔒 | Erster Hüter der Erde; opferte sich für das Große Rad; gab seine Kraft an die materielle Welt. | Kap. 2.3 |
+| **Erde** | Element Vanaras. Symbolik: Erinnerung, Beständigkeit. Magie: Wachstum, Schutz, materielle Form, gespeicherte Vergangenheit. | Kap. 2.1 |
 | **Elementare Heiligtümer** | Heilige Stätten der Elemente in den Reichen; werden von Rakta besetzt. | Kap. 1, 5.3, 6 |
 | **Erste Hüter** 🔒 | Die fünf mächtigen Wesen, die in Niraya über die fünf Elemente wachten: Dharan, Varuni, Agnar, Vayu, Ishvar. | Kap. 2.1 |
-| **Ewigkeit** 🔒 | Kein Element, sondern die Fortdauer der Existenz über jede Veränderung hinweg. Verkörpert durch Kiran. | Kap. 2.1 |
+| **Ewigkeit** 🔒 | Kein Element, sondern die Fortdauer der Existenz über jede Veränderung hinweg. Symbolik: Fortdauer, Wiederkehr. Magie: Erneuerung und Fortsetzung des Kreislaufs. Verkörpert durch Kiran. | Kap. 2.1 |
+| **Feuer** | Element Raktas. Symbolik: Veränderung, Erneuerung. Magie: Zerstörung, Transformation, Energie. | Kap. 2.1 |
+| **Gastmitglied** | Figur, die nur zeitweise spielbar ist. Das Spiel hat zwei Gastmitglieder neben acht festen Gruppenmitgliedern. | Kopfdaten |
 | **Großes Rad** | Volksglaube: der verehrte Kreislauf von Geburt, Tod und Wiedergeburt. 🔒 Wahrheit: ein künstlicher Kreislauf, erschaffen von den Hütern nach dem Großen Verstummen. | Kap. 1, 2.3 |
 | **Großes Verstummen** 🔒 | Katastrophe am Ende Nirayas, bei der Tiere, Pflanzen und schließlich Menschen ihre Verbindung zum Leben verloren. Ursache unbekannt. | Kap. 2.2 |
 | **Herz des Großen Rades** 🔒 | Ort des Finales; enthält die Überreste unzähliger Bewusstseine. | Kap. 6 (Akt IV) |
@@ -30,7 +33,9 @@
 | **Tavan** | Gruppenmitglied, dessen Orden seit Jahrhunderten Teile der Wahrheit kennt. | Kap. 6 (Akt III) |
 | **Vanara** | Reich der Erde; Urwälder und Baumstädte; Startgebiet des Spiels. | Kap. 5.1 |
 | **Varuni** 🔒 | Erste Hüterin des Wassers; opferte sich für das Große Rad; verband ihre Energie mit den Gewässern. | Kap. 2.3 |
+| **Wasser** | Element Sahiras. Symbolik: Bewusstsein, Wandel. Magie: Heilung, Wahrnehmung, Erinnerungen. | Kap. 2.1 |
 | **Vayu** 🔒 | Erster Hüter des Windes; opferte sich für das Große Rad; verband seine Existenz mit den Strömungen der Atmosphäre. | Kap. 2.3 |
+| **Wind** | Element Avelas. Symbolik: Freiheit, Loslassen. Magie: Bewegung, Geschwindigkeit, Übergänge. | Kap. 2.1 |
 | **Windschiffe** | Verkehrsmittel zwischen den Siedlungen Avelas. | Kap. 5.4 |
 | **Zeitalter, erstes** 🔒 | Die Ära Nirayas. | Kap. 2.1 |
 | **Zeitalter, zweites** | Die Ära der vier Reiche seit Erschaffung des Rades (Gegenwart). | Kap. 2.3 |

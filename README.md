@@ -10,9 +10,9 @@
 | **Erzählstil** | Melancholisch, philosophisch, emotional und moralisch komplex |
 | **Inspiration** | Klassische JRPGs wie Final Fantasy IX; buddhistische und hinduistische Vorstellungen von Vergänglichkeit, Wiedergeburt und kosmischen Kreisläufen |
 | **Geplanter Umfang** | 40–60 Stunden Hauptgeschichte |
-| **Spielbare Charaktere** | Bis zu 10 |
+| **Spielbare Charaktere** | 8 feste Gruppenmitglieder + 2 Gastmitglieder (nur zeitweise spielbar) |
 | **Struktur** | Vier große Handlungsakte |
-| **Story-Bibel** | Version 0.1 |
+| **Story-Bibel** | Version 0.2 |
 
 ## Aufbau der Dokumentation
 

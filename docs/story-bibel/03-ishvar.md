@@ -1,6 +1,6 @@
 # 3. Ishvar – Der Bewahrer
 
-> Story-Bibel · Version 0.1 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.2 · Spoiler-Stufe: **hoch**
 
 Ishvar ist der **zentrale Antagonist** der Geschichte.
 

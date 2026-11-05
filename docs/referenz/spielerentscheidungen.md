@@ -1,6 +1,6 @@
 # Spielerentscheidungen
 
-> Abgeleitete Übersicht · Stand: Story-Bibel 0.1 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
+> Abgeleitete Übersicht · Stand: Story-Bibel 0.2 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
 >
 > Diese Datei sammelt alle Entscheidungen, die dem Spieler laut Kanon offenstehen. Sie ist die Grundlage für die spätere Ausarbeitung von Handlungsaktionen (→ [Offene Frage 10](../story-bibel/09-offene-fragen.md)).
 

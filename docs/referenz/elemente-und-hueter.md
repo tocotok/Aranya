@@ -1,6 +1,6 @@
 # Elemente, Hüter und Reiche
 
-> Abgeleitete Übersicht · Stand: Story-Bibel 0.1 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
+> Abgeleitete Übersicht · Stand: Story-Bibel 0.2 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
 
 ## Gesamtübersicht
 
@@ -12,6 +12,19 @@
 | **Wind** | Freiheit, Bewegung, Loslassen | Vayu | Strömungen der Atmosphäre | Avela | Freiheit, Erkenntnis, Bewegung, Loslassen | Winde verstummen, schwebende Felsen sinken |
 | **Äther** | Verbindung zwischen Materie und Bewusstsein | Ishvar | Nicht geopfert – verbindet die vier Kräfte, überwacht das Rad | Kein eigenes Reich | – | – |
 | *(Ewigkeit)* | Fortdauer der Existenz über jede Veränderung hinweg; kein Element | Kiran | Teil des Rades, Wiedergeburt als Sterblicher | Kein eigenes Reich | – | – |
+
+## Symbolik und magische Funktion
+
+Aus [Kap. 2.1](../story-bibel/02-wahre-geschichte.md#symbolik-und-magische-funktion-der-kräfte):
+
+| Kraft | Symbolische Bedeutung | Magische Funktion |
+|---|---|---|
+| **Erde** | Erinnerung, Beständigkeit | Wachstum, Schutz, materielle Form, gespeicherte Vergangenheit |
+| **Wasser** | Bewusstsein, Wandel | Heilung, Wahrnehmung, Erinnerungen |
+| **Feuer** | Veränderung, Erneuerung | Zerstörung, Transformation, Energie |
+| **Wind** | Freiheit, Loslassen | Bewegung, Geschwindigkeit, Übergänge |
+| **Äther** | Verbindung, Einheit | Verknüpfung der Elemente und Bewusstseine |
+| **Ewigkeit** | Fortdauer, Wiederkehr | Erneuerung und Fortsetzung des Kreislaufs |
 
 ## Elementare Heiligtümer
 

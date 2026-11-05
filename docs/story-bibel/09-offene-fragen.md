@@ -1,6 +1,6 @@
 # 9. Noch offene Fragen
 
-> Story-Bibel · Version 0.1 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.2 · Spoiler-Stufe: **hoch**
 
 Die folgenden Punkte sind **bewusst noch nicht endgültig festgelegt**.
 
@@ -16,7 +16,7 @@ Die folgenden Punkte sind **bewusst noch nicht endgültig festgelegt**.
 | 6 | Welche Informationen besitzt die Königin von Rakta, und woher stammen sie? | Offen | Sie weiß, dass das Rad instabil wird; Rakta untersucht seit Jahren den Verfall der elementaren Energien. Sie will die vier Heiligtümer bündeln. |
 | 7 | Wie kann das Große Rad technisch beziehungsweise magisch beendet oder verändert werden? | Offen | Ishvar wusste es einst. Ein früherer Versuch Kirans tötete Hunderttausende. Ende C setzt die gebundenen Kräfte frei, statt das Rad einfach zu zerstören. |
 | 8 | Welche Opfer sind für das dritte Ende erforderlich? | Offen | Ende C „verlangt erhebliche Opfer“ und garantiert keine friedliche Zukunft. |
-| 9 | Welche vier weiteren Charaktere vervollständigen die spielbare Gruppe? | Offen | Bekannt: Kiran, Mira, Daren, Tavan. Siehe [Konsistenz-Notiz K-01](../pflege/konsistenz-notizen.md) zur Gesamtzahl. |
+| 9 | Welche vier weiteren Charaktere vervollständigen die spielbare Gruppe – und wer sind die zwei Gastmitglieder? | Offen (Gruppengröße geklärt in 0.2) | Festgelegt: **8 feste spielbare Charaktere + 2 Gastmitglieder**, die nur zeitweise spielbar sind. Bekannt: Kiran, Mira, Daren, Tavan → es fehlen 4 feste Mitglieder und beide Gastmitglieder. |
 | 10 | Welche Entscheidungen des Spielers beeinflussen das Ende und die Beziehungen zwischen den Charakteren? | Offen | Bekannt: Namaru-Entscheidung (Akt II) mit Auswirkungen auf Dorf und Gruppenbeziehungen; Schlussentscheidung (Akt IV); Ende C nur „unter bestimmten Voraussetzungen“. Siehe [Spielerentscheidungen](../referenz/spielerentscheidungen.md). |
 
 ## Hinweis

@@ -1,6 +1,6 @@
 # Zeitleiste
 
-> Abgeleitete Übersicht · Stand: Story-Bibel 0.1 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
+> Abgeleitete Übersicht · Stand: Story-Bibel 0.2 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
 >
 > Konkrete Jahreszahlen sind bisher nicht festgelegt. Bekannt ist nur: Die Gegenwart liegt **mehr als dreitausend Jahre** nach dem Ende Nirayas.
 

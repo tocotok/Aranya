@@ -50,7 +50,8 @@ Er trägt die Verantwortung für Entscheidungen, an die er sich nicht erinnern k
 
 | Merkmal | Festlegung |
 |---|---|
-| Alter zu Spielbeginn | ca. 19 Jahre |
+| Alter zu Spielbeginn | 19 Jahre |
+| Kampffunktion | Schwertkämpfer / Allrounder |
 | Beruf | Kurier |
 | Herkunft | Abgelegenes Dorf am Rand des großen Waldes von Vanara |
 | Charakter | Neugierig, humorvoll, gelegentlich ungeduldig, Fernweh |

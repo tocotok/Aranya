@@ -2,11 +2,11 @@
 
 ## 1. Rangfolge der Quellen
 
-1. **Story-Bibel** (`docs/story-bibel/`) – verbindlich.
-2. **Referenz** (`docs/referenz/`) – abgeleitete Übersichten; führen keine neuen Festlegungen ein.
+1. **Story-Bibel** (`docs/story-bibel/`) und **Glossar** (`docs/referenz/glossar.md`) – verbindlich und gleichrangig.
+2. **Übrige Referenz** (`docs/referenz/`) – abgeleitete Übersichten; führen keine neuen Festlegungen ein.
 3. **Konsistenz-Notizen** (`docs/pflege/konsistenz-notizen.md`) – Beobachtungen und Vorschläge, **kein Kanon**.
 
-Widersprechen sich Story-Bibel und Referenz, gilt die Story-Bibel; die Referenz wird korrigiert.
+Widersprechen sich Story-Bibel und Glossar, wird der Widerspruch **nicht stillschweigend** aufgelöst, sondern als Konsistenz-Notiz erfasst und vom Autor entschieden (Glossar-Regel G-17). Widerspricht eine abgeleitete Übersicht dem Kanon, wird die Übersicht korrigiert.
 
 ## 2. Status von Inhalten
 
@@ -42,7 +42,7 @@ Jedes Kapitel trägt eine Spoiler-Stufe, damit Inhalte gezielt an Personen weite
 
 ## 6. Verbindliche Regeln der Mythologie
 
-Bestimmte Festlegungen sind als **Regeln** markiert (Kennung `R-xx`, derzeit in [Kapitel 11.1](../story-bibel/11-ishvar-und-die-inkarnationen.md#111-verbindliche-regeln-der-mythologie)). Für sie gilt:
+Bestimmte Festlegungen sind als **Regeln** markiert: `R-xx` in [Kapitel 11.1](../story-bibel/11-ishvar-und-die-inkarnationen.md#111-verbindliche-regeln-der-mythologie) und `G-xx` im [Glossar, Abschnitt 10](../referenz/glossar.md#10-verbindliche-regeln-für-die-weitere-entwicklung). Für sie gilt:
 
 - Sie dürfen im weiteren Verlauf der Geschichte **nicht ohne ausdrückliche Neufestlegung** aufgehoben oder umgangen werden – auch nicht für einzelne Szenen.
 - Eine Neufestlegung wird im Änderungsprotokoll als **Kanon-Änderung** vermerkt und nennt die betroffene Regel.

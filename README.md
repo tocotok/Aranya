@@ -31,18 +31,21 @@ Die Story-Bibel ist die **verbindliche Quelle** für Welt, Figuren und Handlung.
 | 7 | [Zentrale Themen](docs/story-bibel/07-themen.md) | Mittel |
 | 8 | [Erzählerische Leitlinien](docs/story-bibel/08-erzaehlerische-leitlinien.md) | Gering |
 | 9 | [Noch offene Fragen](docs/story-bibel/09-offene-fragen.md) | **Hoch** |
-| 10 | [Die Gruppe (Tavan)](docs/story-bibel/10-gruppe.md) | Mittel bis hoch |
+| 10 | [Die Gruppe (Tavan, Seya, Paku)](docs/story-bibel/10-gruppe.md) | Mittel bis hoch |
 | 11 | [Ishvar und Kirans Inkarnationen – Handlungslogik](docs/story-bibel/11-ishvar-und-die-inkarnationen.md) | **Hoch** |
+
+### Glossar (verbindlich)
+
+- [Glossar – Namen, Orte und Begriffe (Version 0.2)](docs/referenz/glossar.md) – zentrale Referenz mit den verbindlichen Regeln G-01 bis G-17. Gleichrangig mit der Story-Bibel.
 
 ### Referenz (abgeleitete Übersichten)
 
-Diese Dateien fassen den Kanon zusammen, um die Weiterentwicklung zu erleichtern. **Sie führen keine neuen Festlegungen ein.** Bei Abweichungen gilt immer die Story-Bibel.
+Diese Dateien fassen den Kanon zusammen, um die Weiterentwicklung zu erleichtern. **Sie führen keine neuen Festlegungen ein.** Bei Abweichungen gelten Story-Bibel und Glossar.
 
 - [Figurenregister](docs/referenz/figurenregister.md)
 - [Elemente, Hüter und Reiche](docs/referenz/elemente-und-hueter.md)
 - [Zeitleiste](docs/referenz/zeitleiste.md)
 - [Spielerentscheidungen](docs/referenz/spielerentscheidungen.md)
-- [Glossar](docs/referenz/glossar.md)
 
 ### Pflege
 

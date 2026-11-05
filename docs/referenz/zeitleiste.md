@@ -2,7 +2,9 @@
 
 > Abgeleitete Übersicht · Stand: Story-Bibel 0.2 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
 >
-> Konkrete Jahreszahlen sind bisher nicht festgelegt. Bekannt ist nur: Die Gegenwart liegt **mehr als dreitausend Jahre** nach dem Ende Nirayas.
+> Konkrete Jahreszahlen sind bisher nicht festgelegt. Die Story-Bibel nennt **mehr als dreitausend Jahre**, das Glossar **ca. 3.000 Jahre** seit dem Ende Nirayas (siehe [K-27](../pflege/konsistenz-notizen.md)).
+>
+> Zeitalter laut Glossar: **erstes Zeitalter** (Niraya), **zweites Zeitalter** (die vier Reiche), **letztes Zeitalter** (die Gegenwart, in der das Rad seinem möglichen Ende entgegengeht; Abgrenzung siehe [K-26](../pflege/konsistenz-notizen.md)).
 
 ## Erstes Zeitalter – Niraya
 

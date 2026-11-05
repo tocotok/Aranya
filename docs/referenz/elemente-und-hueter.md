@@ -15,23 +15,26 @@
 
 ## Symbolik und magische Funktion
 
-Aus [Kap. 2.1](../story-bibel/02-wahre-geschichte.md#symbolik-und-magische-funktion-der-kräfte):
+Siehe [Glossar, Abschnitt 5](glossar.md#5-elemente-und-ihre-bedeutung) und [Kap. 2.1](../story-bibel/02-wahre-geschichte.md#symbolik-und-magische-funktion-der-kräfte).
 
-| Kraft | Symbolische Bedeutung | Magische Funktion |
+## Wirkung der geopferten Hüter in den heutigen Reichen
+
+| Hüter | Kosmologie (Kap. 2.3) | Glossar 0.2 |
 |---|---|---|
-| **Erde** | Erinnerung, Beständigkeit | Wachstum, Schutz, materielle Form, gespeicherte Vergangenheit |
-| **Wasser** | Bewusstsein, Wandel | Heilung, Wahrnehmung, Erinnerungen |
-| **Feuer** | Veränderung, Erneuerung | Zerstörung, Transformation, Energie |
-| **Wind** | Freiheit, Loslassen | Bewegung, Geschwindigkeit, Übergänge |
-| **Äther** | Verbindung, Einheit | Verknüpfung der Elemente und Bewusstseine |
-| **Ewigkeit** | Fortdauer, Wiederkehr | Erneuerung und Fortsetzung des Kreislaufs |
+| Dharan | Gab seine Kraft an die materielle Welt | Seine Kraft bildet das Fundament von Vanara |
+| Varuni | Verband ihre Energie mit den Gewässern | Ihre Kraft durchdringt die Gewässer Sahiras |
+| Agnar | Kraft ging in die Vulkane und das innere Feuer der Welt über | Seine Kraft manifestiert sich in Rakta |
+| Vayu | Verband seine Existenz mit den Strömungen der Atmosphäre | Seine Kraft formte die Landschaft Avelas |
+
+> Zum Verhältnis von weltweiter Wirkung und regionalem Schwerpunkt siehe [K-25](../pflege/konsistenz-notizen.md).
 
 ## Elementare Heiligtümer
 
 - Jedes der vier Reiche besitzt elementare Heiligtümer.
 - Ishvar schützte sie in den ersten Jahrhunderten nach dem Untergang Nirayas.
 - Rakta besetzt zu Spielbeginn Heiligtümer anderer Reiche und will die vier Heiligtümer bündeln, um den Zusammenbruch des Rades zu verhindern.
-- Lage, Gestalt und genaue Funktion der Heiligtümer: **nicht festgelegt**.
+- Bezeichnung laut Glossar: **Wurzeltempel** – alte elementare Heiligtümer, die Kräfte der ursprünglichen Hüter bündeln und stabilisieren (zur Abgrenzung siehe [K-24](../pflege/konsistenz-notizen.md)).
+- Lage und Gestalt der einzelnen Heiligtümer: **nicht festgelegt**.
 
 ## Volksglaube vs. Wahrheit
 

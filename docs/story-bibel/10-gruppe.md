@@ -4,6 +4,18 @@
 >
 > Dieses Kapitel sammelt ausgearbeitete Gruppenmitglieder. Zusammensetzung: **8 feste spielbare Charaktere + 2 Gastmitglieder** (siehe [Figurenregister](../referenz/figurenregister.md)). Kiran ist in [Kapitel 4](04-kiran.md) beschrieben.
 
+## Übersicht der Gruppe *(gemäß Glossar 0.2)*
+
+| Nr. | Name | Alter | Kampffunktion | Herkunft | Ausarbeitung |
+|---|---|---|---|---|---|
+| 1 | **Kiran** | 19 | Schwertkämpfer / Allrounder | Vanara | [Kap. 4](04-kiran.md) |
+| 2 | **Mira** | 21 | Heilerin / Naturmagie | Vanara | Kap. 6, 7 (Profil folgt) |
+| 3 | **Daren** | 34 | Tank / Lanzenkämpfer | Rakta | Kap. 6, 7 (Profil folgt) |
+| 4 | **Seya** | 24 | Wassermagierin / Kontrolle | Sahira | [10.2](#102-seya) |
+| 5 | **Paku** | Unbekannt | Dieb / Geschwindigkeit | – (Waldbewohner) | [10.3](#103-paku) |
+| 6 | **Tavan** | 67 | Mönch / Nahkampf | Avela | [10.1](#101-tavan) |
+| 7–10 | *offen* | – | – | – | Siehe [K-22](../pflege/konsistenz-notizen.md) |
+
 ## 10.1 Tavan
 
 *(Festgelegt in Version 0.2, schließt Konsistenz-Notiz K-02)*
@@ -13,12 +25,12 @@
 | Merkmal | Festlegung |
 |---|---|
 | Herkunft | Avela |
-| Alter | Älterer Mann („älterer Mönch“) |
+| Alter | 67 |
 | Orden | **Orden der Stillen Winde** – jahrzehntelang angesehener Lehrer |
 | Erste Begegnung | Akt I, Vanara (nicht spielbar) |
 | Zweite Begegnung | Akt II, Sahira (nicht spielbar) |
 | Dauerhafter Beitritt | Ende Akt II – ab dann spielbar |
-| Kampffunktion | Mönch: verbindet körperliche Kampftechniken mit spirituellen Fähigkeiten |
+| Kampffunktion | Mönch / Nahkampf: verbindet körperliche Kampftechniken mit spirituellen Fähigkeiten |
 | Persönlicher Konflikt | Akt III: Eid gegenüber dem Orden vs. Aufdeckung der Wahrheit → Ausschluss aus dem Orden |
 | Persönliches Thema | Die Verantwortung des Einzelnen gegenüber einer Institution, der er sein Leben gewidmet hat |
 
@@ -117,3 +129,31 @@ Sein persönliches Thema ist die **Verantwortung des Einzelnen gegenüber einer 
 | II | Begegnung → Beitritt | Wachsende Zweifel | Gibt zu, dass der Orden den Namen Niraya kennt; schließt sich am Aktende an |
 | III | Spielbar | Bruch | Ordensführung verweigert die Archive; Tavan wählt die Wahrheit, wird ausgeschlossen |
 | IV | Spielbar | – (noch nicht festgelegt) | – |
+
+---
+
+## 10.2 Seya
+
+*(Eingeführt durch Glossar 0.2 – bisher nur Grunddaten)*
+
+| Merkmal | Festlegung |
+|---|---|
+| Alter | 24 |
+| Herkunft | Sahira, adlige Familie |
+| Kampffunktion | Wassermagierin / Kontrolle |
+| Besondere Fähigkeit | Kann Erinnerungen wahrnehmen, die im Wasser gespeichert sind (vgl. die Magier Sahiras, [Kap. 5.2](05-reiche.md#52-sahira--das-reich-des-wassers)) |
+| Beitritt | – (nicht festgelegt) |
+| Persönlicher Konflikt | – (nicht festgelegt) |
+
+## 10.3 Paku
+
+*(Eingeführt durch Glossar 0.2 – bisher nur Grunddaten)*
+
+| Merkmal | Festlegung |
+|---|---|
+| Alter | Unbekannt |
+| Art | Sprechender Waldbewohner einer **vom Aussterben bedrohten Spezies** (vgl. das Verschwinden von Tierarten durch den Substanzverlust des Rades, [Kap. 2.4](02-wahre-geschichte.md#24-die-grenzen-des-großen-rades)) |
+| Kampffunktion | Dieb / Geschwindigkeit |
+| Wesen | Humorvoll, aber mit tragischem Hintergrund |
+| Herkunft | – (nicht festgelegt) |
+| Beitritt | – (nicht festgelegt) |

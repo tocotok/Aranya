@@ -20,18 +20,18 @@ Die Welt wurde von fünf grundlegenden Elementen durchdrungen:
 
 ### Symbolik und magische Funktion der Kräfte
 
-*(Festgelegt in Version 0.2)*
+*(Festgelegt in Version 0.2; aktualisiert gemäß [Glossar 0.2](../referenz/glossar.md#5-elemente-und-ihre-bedeutung))*
 
-| Kraft | Symbolische Bedeutung | Magische Funktion |
+| Kraft | Symbolik | Magische Eigenschaften |
 |---|---|---|
-| **Erde** | Erinnerung, Beständigkeit | Wachstum, Schutz, materielle Form, gespeicherte Vergangenheit |
-| **Wasser** | Bewusstsein, Wandel | Heilung, Wahrnehmung, Erinnerungen |
-| **Feuer** | Veränderung, Erneuerung | Zerstörung, Transformation, Energie |
-| **Wind** | Freiheit, Loslassen | Bewegung, Geschwindigkeit, Übergänge |
-| **Äther** | Verbindung, Einheit | Verknüpfung der Elemente und Bewusstseine |
-| **Ewigkeit** | Fortdauer, Wiederkehr | Erneuerung und Fortsetzung des Kreislaufs |
+| **Erde** | Beständigkeit, Herkunft, Erinnerung | Wachstum, Schutz, materielle Form, Speicherung vergangener Ereignisse |
+| **Wasser** | Bewusstsein, Anpassung, Wandel | Heilung, Wahrnehmung, Bewusstseinsübertragung, Erinnerungen |
+| **Feuer** | Zerstörung, Transformation, Erneuerung | Energie, Verbrennung, Umwandlung und Auflösung elementarer Bindungen |
+| **Wind** | Freiheit, Bewegung, Loslassen | Geschwindigkeit, Luftströmungen, Übergänge und Transport geistiger Spuren |
+| **Äther** | Verbindung, Einheit, Gleichgewicht | Verknüpfung der Elemente, Verbindung von Materie und Bewusstsein, Stabilisierung des Großen Rades |
+| **Ewigkeit** | Fortdauer, Wiederkehr, Unvergänglichkeit | Ermöglicht die fortwährende Erneuerung des Kreislaufs. Kirans Existenz kehrt unabhängig von Ishvars Willen zurück. |
 
-> Die Ewigkeit ist **kein Element**, sondern eine eigenständige Kraft (siehe unten). Sie steht in der Tabelle, weil sie als sechste Kraft neben den fünf Elementen wirkt.
+> Die Ewigkeit ist keine gewöhnliche elementare Magie. Sie ist eine **sechste Urkraft**, die außerhalb der fünf Naturelemente steht.
 
 Über diese Elemente wachten fünf mächtige Wesen, die sogenannten **Ersten Hüter**.
 

@@ -1,0 +1,41 @@
+# Regeln zur Pflege des Kanons
+
+## 1. Rangfolge der Quellen
+
+1. **Story-Bibel** (`docs/story-bibel/`) – verbindlich.
+2. **Referenz** (`docs/referenz/`) – abgeleitete Übersichten; führen keine neuen Festlegungen ein.
+3. **Konsistenz-Notizen** (`docs/pflege/konsistenz-notizen.md`) – Beobachtungen und Vorschläge, **kein Kanon**.
+
+Widersprechen sich Story-Bibel und Referenz, gilt die Story-Bibel; die Referenz wird korrigiert.
+
+## 2. Status von Inhalten
+
+| Status | Bedeutung |
+|---|---|
+| **Kanon** | In der Story-Bibel festgelegt. |
+| **Offen** | Bewusst nicht festgelegt (Kapitel 9 oder Konsistenz-Notizen). Darf nicht stillschweigend beantwortet werden. |
+| **Vorschlag** | Idee zur Diskussion; erst nach Übernahme in die Story-Bibel Kanon. |
+| **Verworfen** | Bewusst abgelehnt; wird im Änderungsprotokoll mit Begründung festgehalten, damit die Idee nicht unbemerkt zurückkehrt. |
+
+## 3. Verfahren für neue Festlegungen
+
+1. Prüfen, ob die Festlegung eine **offene Frage** (Kapitel 9) oder eine **Konsistenz-Notiz** berührt.
+2. Prüfen, ob sie einer bestehenden Festlegung **widerspricht**. Falls ja: Widerspruch ausdrücklich auflösen, nicht übergehen.
+3. Festlegung im passenden Kapitel der Story-Bibel ergänzen.
+4. Betroffene offene Frage auf Status „Beantwortet (Version x.y)“ setzen und auf die Fundstelle verweisen – nicht löschen.
+5. Referenzdateien (Figurenregister, Glossar, Zeitleiste, Elemente, Spielerentscheidungen) nachziehen.
+6. Eintrag im [Änderungsprotokoll](aenderungsprotokoll.md) mit neuer Versionsnummer.
+
+## 4. Versionierung
+
+- **0.x** – Konzeptphase.
+- Kleinere Ergänzungen und Präzisierungen: zweite Stelle erhöhen (0.1 → 0.2).
+- Beantwortung einer offenen Frage oder Änderung an Kosmologie/Hauptplot: im Protokoll als **Kanon-Änderung** markieren.
+
+## 5. Spoiler-Stufen
+
+Jedes Kapitel trägt eine Spoiler-Stufe, damit Inhalte gezielt an Personen weitergegeben werden können, die nicht alles wissen sollen (z. B. Testspieler):
+
+- **Gering** – Wissen, das der Spieler in den ersten Stunden erhält.
+- **Mittel** – Wissen aus dem Verlauf von Akt I–II.
+- **Hoch** – Hintergrundwahrheiten und Enthüllungen aus Akt III–IV.

@@ -1,6 +1,6 @@
 # 11. Ishvar und Kirans Inkarnationen – Handlungslogik
 
-> Story-Bibel · Version 0.2 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.3 · Spoiler-Stufe: **hoch**
 >
 > *(Festgelegt in Version 0.2, schließt Konsistenz-Notiz K-06 sowie offene Frage 4 und beantwortet offene Frage 5 im Kern)*
 >
@@ -46,6 +46,8 @@ Das Fragment erkennt Kirans ursprüngliche Existenz als Verkörperung der Ewigke
 
 Es versucht, ihn vor dem Erwachen seiner Erinnerungen zu warnen.
 
+> **Präzisiert in 0.3 (KR-01):** Das Fragment ist ein *Urfragment* – ein Echo Dharans ohne eigenen Willen. „Erkennen“, „Wissen“ und „Warnen“ sind gespeicherte Erinnerungen und festgelegte Reaktionen, die Dharans ursprüngliche Absicht widerspiegeln, keine eigenständige Entscheidung. → [Kap. 12.1](12-urfragmente-und-orte-nirayas.md#121-die-urfragmente-der-vier-geopferten-hüter-k-15)
+
 Der Baum spricht zu Kiran:
 
 > **„Diesmal darfst du dich nicht erinnern.“**
@@ -57,7 +59,7 @@ Dieser Satz besitzt eine **doppelte Bedeutung**:
 
 In dem Moment, in dem der Baum zu Kiran spricht, entsteht eine starke Störung im Äther.
 
-Ishvar nimmt diese Störung wahr.
+Ishvar nimmt diese Störung wahr. Es handelt sich um eine **Resonanz der Ewigkeit** ([Kap. 12.4](12-urfragmente-und-orte-nirayas.md#124-elementare-resonanz-und-resonanz-der-ewigkeit-k-19)).
 
 > **Tragische Ironie:** Gerade die Warnung des Fragments löst die Aktivierung aus, vor der sie warnen soll.
 
@@ -80,6 +82,8 @@ Ishvar nutzt diese bestehenden Strukturen, um Soldaten zum Dorf zu schicken.
 ## 11.5 Der Angriff auf das Heimatdorf
 
 Die Soldaten aus Rakta erhalten den Auftrag, **das Fragment Dharans sicherzustellen** und **mögliche Träger ungewöhnlicher elementarer Kräfte festzusetzen**.
+
+> **Präzisiert in 0.3:** Offiziell lautet der Auftrag, eine *ungewöhnliche elementare Energiequelle* zu untersuchen und sicherzustellen. Die Soldaten – auch Daren – wissen nicht, dass es ein Urfragment Dharans ist. Ablauf der Eskalation: [Kap. 10.4](10-gruppe.md#104-daren), [12.2](12-urfragmente-und-orte-nirayas.md#122-das-schicksal-des-fragments-dharans-k-16).
 
 Sie wissen nichts von Kirans wahrer Identität.
 

@@ -1,6 +1,6 @@
 # Spielerentscheidungen
 
-> Abgeleitete Übersicht · Stand: Story-Bibel 0.2 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
+> Abgeleitete Übersicht · Stand: Story-Bibel 0.3 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
 >
 > Diese Datei sammelt alle Entscheidungen, die dem Spieler laut Kanon offenstehen. Sie ist die Grundlage für die spätere Ausarbeitung von Handlungsaktionen (→ [Offene Frage 10](../story-bibel/09-offene-fragen.md)).
 
@@ -17,6 +17,8 @@ Diese Ereignisse sind im Kanon beschrieben; ob und wie der Spieler sie beeinflus
 
 | Akt | Ereignis | Mögliche Entscheidungsrelevanz |
 |---|---|---|
+| II–IV | Kiran muss entscheiden, ob er mit Daren weiterreisen kann (nach Darens Enthüllung) | Spielerentscheidung oder feste Handlung? Einfluss auf Gruppenbeziehungen? (K-43) |
+| III | Kirans Reaktion auf Tavans Geständnis | Wie bei Daren – Beziehungswert? |
 | III | Die Gruppe zerbricht vorübergehend an der Frage „Rad bewahren oder beenden?“ | Wer steht auf welcher Seite? Kann der Spieler die Wiedervereinigung beeinflussen? |
 | IV | Die Gruppe versucht, Ishvar seine entfernten Erinnerungen zurückzugeben | Gelingen/Misslingen als Voraussetzung für ein Ende? |
 

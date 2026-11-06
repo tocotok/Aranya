@@ -12,7 +12,7 @@
 | **Geplanter Umfang** | 40–60 Stunden Hauptgeschichte |
 | **Spielbare Charaktere** | 8 feste Gruppenmitglieder + 2 Gastmitglieder (nur zeitweise spielbar) |
 | **Struktur** | Vier große Handlungsakte |
-| **Story-Bibel** | Version 0.2 |
+| **Story-Bibel** | Version 0.3 |
 
 ## Aufbau der Dokumentation
 
@@ -31,8 +31,9 @@ Die Story-Bibel ist die **verbindliche Quelle** für Welt, Figuren und Handlung.
 | 7 | [Zentrale Themen](docs/story-bibel/07-themen.md) | Mittel |
 | 8 | [Erzählerische Leitlinien](docs/story-bibel/08-erzaehlerische-leitlinien.md) | Gering |
 | 9 | [Noch offene Fragen](docs/story-bibel/09-offene-fragen.md) | **Hoch** |
-| 10 | [Die Gruppe (Tavan, Seya, Paku)](docs/story-bibel/10-gruppe.md) | Mittel bis hoch |
+| 10 | [Die Gruppe (Tavan, Seya, Paku, Daren)](docs/story-bibel/10-gruppe.md) | Mittel bis hoch |
 | 11 | [Ishvar und Kirans Inkarnationen – Handlungslogik](docs/story-bibel/11-ishvar-und-die-inkarnationen.md) | **Hoch** |
+| 12 | [Urfragmente, Resonanzen und die verborgenen Orte Nirayas](docs/story-bibel/12-urfragmente-und-orte-nirayas.md) | **Hoch** |
 
 ### Glossar (verbindlich)
 

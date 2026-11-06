@@ -1,6 +1,6 @@
 # 6. Die Handlung des Spiels
 
-> Story-Bibel · Version 0.2 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.3 · Spoiler-Stufe: **hoch**
 
 ## Aktübersicht
 
@@ -43,7 +43,7 @@ Noch in derselben Nacht greifen Soldaten aus Rakta das Dorf an.
 
 Sie suchen nach einem uralten Gegenstand, der angeblich unter den Wurzeln des Baumes verborgen liegt.
 
-> **Hintergrund (0.2):** Die Soldaten sollen das Fragment Dharans sicherstellen und mögliche Träger ungewöhnlicher elementarer Kräfte festsetzen – nicht töten. Sie kennen Kirans Identität nicht. Der Angriff wurde durch Ishvars Einfluss auf Rakta veranlasst und eskaliert, weil die Dorfbewohner den Zugang zum Baum verweigern. Das Dorf wird schwer beschädigt. → [Kapitel 11.5](11-ishvar-und-die-inkarnationen.md#115-der-angriff-auf-das-heimatdorf)
+> **Hintergrund (0.2/0.3):** Die Soldaten sollen eine ungewöhnliche Energiequelle unter dem Baum sicherstellen – dass es ein Urfragment Dharans ist, wissen sie nicht – und mögliche Träger ungewöhnlicher Kräfte festsetzen, nicht töten. Sie kennen Kirans Identität nicht. Der Angriff wurde durch Ishvars Einfluss auf Rakta veranlasst. **Daren** ist einer der verantwortlichen Offiziere. Als Soldaten die Wurzeln gewaltsam freilegen, setzt das Urfragment Energie frei: Wurzeln brechen hervor, Vegetation überwuchert Teile des Dorfes, die Soldaten weichen zurück. Darens Absperrung blockiert Fluchtwege – mehrere Menschen sterben. Daren verweigert danach den Befehl, die Überlebenden festzusetzen, und desertiert. → [Kap. 11.5](11-ishvar-und-die-inkarnationen.md#115-der-angriff-auf-das-heimatdorf), [12.2](12-urfragmente-und-orte-nirayas.md#122-das-schicksal-des-fragments-dharans-k-16), [10.4](10-gruppe.md#104-daren)
 
 Kiran entkommt gemeinsam mit **Mira**, einer jungen Tempelwächterin, und **Daren**, einem desertierten Soldaten aus Rakta.
 
@@ -55,7 +55,7 @@ Während ihrer Reise begegnen sie erstmals den Veränderungen der Natur.
 
 Wälder scheinen sich über Nacht zu verschieben. Tiere greifen ohne erkennbaren Grund an. Menschen berichten von Erinnerungen, die nicht ihre eigenen sind.
 
-An einem kleinen Schrein begegnet die Gruppe einem älteren meditierenden Mönch: **Tavan** aus Avela. Die Pflanzen um den Schrein sind abgestorben, obwohl der Boden fruchtbar und feucht ist. Als Tavan Kiran begegnet, reagiert der Schrein ungewöhnlich – Tavan kann es nicht erklären. Er gibt der Gruppe einen Hinweis auf einen alten Tempel und reist weiter. Er ist noch nicht spielbar. → [Kapitel 10.1](10-gruppe.md#101-tavan)
+An einem kleinen Schrein begegnet die Gruppe einem älteren meditierenden Mönch: **Tavan** aus Avela. Die Pflanzen um den Schrein sind abgestorben, obwohl der Boden fruchtbar und feucht ist. Als Tavan Kiran begegnet, reagiert der Schrein ungewöhnlich: Die Pflanzen verändern sich kurz, ein altes Symbol leuchtet auf – Tavan kann es nicht erklären. Es ist nur eine schwache elementare Resonanz, die Ishvar nicht wahrnimmt ([Kap. 12.4](12-urfragmente-und-orte-nirayas.md#124-elementare-resonanz-und-resonanz-der-ewigkeit-k-19)). Er gibt der Gruppe einen Hinweis auf einen alten Tempel und reist weiter. Er ist noch nicht spielbar. → [Kapitel 10.1](10-gruppe.md#101-tavan)
 
 Ein freundlicher reisender Gelehrter namens **Ishvar** begegnet der Gruppe und hilft ihr bei der Entschlüsselung einer alten Inschrift.
 
@@ -72,8 +72,8 @@ Aus einer persönlichen Flucht wird eine Reise, die einen Krieg verhindern soll.
 1. Dorfleben, kleine Aufgaben, erste Kämpfe (Tutorial).
 2. Vorbereitung des Lichterfests.
 3. Der heilige Baum verliert seine Blätter, silberne Flüssigkeit tritt aus, der Baum spricht zu Kiran.
-4. Nächtlicher Angriff Raktas auf das Dorf; Suche nach dem Gegenstand unter den Wurzeln.
-5. Flucht mit Mira und Daren.
+4. Nächtlicher Angriff Raktas auf das Dorf; das Urfragment setzt Energie frei, Vegetation überwuchert Teile des Dorfes; Tote durch blockierte Fluchtwege.
+5. Daren verweigert den Befehl, die Überlebenden festzusetzen; Flucht mit Mira und Daren. Das Fragment bleibt beschädigt unter dem Baum zurück, das Dorf wird später teilweise evakuiert.
 6. Reise zur nächsten größeren Stadt; erste Naturanomalien.
 7. Erste Begegnung mit Tavan am Schrein; der Schrein reagiert auf Kiran; Hinweis auf einen alten Tempel.
 8. Begegnung mit dem Gelehrten Ishvar; Entschlüsselung einer alten Inschrift.
@@ -93,9 +93,15 @@ Weitere Charaktere schließen sich der Gruppe an.
 
 In **Sahira** entdeckt die Gruppe Hinweise darauf, dass Erinnerungen Verstorbener in bestimmten Gewässern erhalten bleiben.
 
-Dort trifft sie **Tavan** erneut, der ähnliche Naturphänomene untersucht und alte Aufzeichnungen vergleicht. Als die Gruppe ihm von Niraya erzählt, reagiert er auffällig zurückhaltend. Er gesteht, dass sein Orden diesen Namen kennt, verweigert aber zunächst weitere Auskünfte. Sein Vertrauen zur Gruppe wächst im Verlauf des Aktes.
+Dort trifft sie **Tavan** erneut, der ähnliche Naturphänomene untersucht und alte Aufzeichnungen vergleicht. Als die Gruppe ihm von Niraya erzählt, reagiert er auffällig zurückhaltend. Er gesteht, dass sein Orden diesen Namen kennt, behauptet aber, selbst nur wenig zu wissen – was nicht vollständig wahr ist. Sein Vertrauen zur Gruppe wächst im Verlauf des Aktes.
 
-In **Rakta** erfährt sie, dass die Regierung seit Jahren den zunehmenden Verfall der elementaren Energien untersucht.
+In Sahira liegt unter einer alten Tempelanlage auch ein **Urfragment Varunis** in einem unterirdischen See; **Seya** spielt beim Zugang zu seinen Erinnerungen später eine wichtige Rolle ([Kap. 12.1](12-urfragmente-und-orte-nirayas.md#121-die-urfragmente-der-vier-geopferten-hüter-k-15); Zeitpunkt offen).
+
+### Darens Enthüllung
+
+Im Verlauf von Akt II entdeckt die Gruppe militärische Einsatzberichte aus Rakta: **Daren war einer der verantwortlichen Offiziere beim Angriff auf Kirans Heimatdorf.** Kiran konfrontiert ihn. Daren leugnet nichts. Kiran fühlt sich verraten, die Gruppe gerät in einen schweren Konflikt, und das Verhältnis zwischen Kiran und Daren bleibt lange angespannt. → [Kap. 10.4](10-gruppe.md#104-daren)
+
+In **Rakta** erfährt sie, dass die Regierung seit Jahren den zunehmenden Verfall der elementaren Energien untersucht. Tief unter den vulkanischen Gebirgen liegt ein besonders instabiles **Urfragment Agnars**, dessen Kraft Raktas Ingenieure teilweise technisch nutzen, ohne ihren Ursprung zu kennen.
 
 Die **Königin von Rakta** weiß, dass das Große Rad instabil wird.
 
@@ -139,7 +145,8 @@ Ebenfalls am Ende des zweiten Aktes **schließt sich Tavan der Gruppe dauerhaft 
 
 1. Reise durch Sahira: politische Machtkämpfe; Erinnerungen Verstorbener in bestimmten Gewässern; zweite Begegnung mit Tavan.
 2. Neue Gruppenmitglieder treten bei.
-3. Reise durch Rakta: Forschung zum Verfall der elementaren Energien; Motive der Königin.
+3. Reise durch Rakta: Forschung zum Verfall der elementaren Energien; technische Nutzung des Urfragments Agnars; Motive der Königin.
+3a. Einsatzberichte enthüllen Darens Rolle beim Dorfangriff; Konfrontation mit Kiran (Ort innerhalb von Akt II offen).
 4. Namaru – **Spielerentscheidung**: Kreislauf beenden oder bestehen lassen.
 5. Hinweise auf Niraya, das in offiziellen Geschichtsbüchern fehlt.
 6. Aktende: Die vier Reiche entstanden aus einer einzigen ursprünglichen Welt; Tavan tritt der Gruppe dauerhaft bei.
@@ -153,6 +160,14 @@ Ebenfalls am Ende des zweiten Aktes **schließt sich Tavan der Gruppe dauerhaft 
 Die Gruppe reist unter **Tavans** Führung nach **Avela**, um in den alten Klosterarchiven nach Informationen über Niraya zu suchen.
 
 Die Führung des Ordens der Stillen Winde verweigert Tavan die Einsicht in die ältesten Archive und verlangt, dass er seine Nachforschungen einstellt. Tavan bricht seinen Eid, hilft der Gruppe und wird aus dem Orden ausgeschlossen. → [Kapitel 10.1](10-gruppe.md#persönlicher-konflikt--akt-iii)
+
+In den Archiven Avelas findet die Gruppe Aufzeichnungen über einen Mann, der vor mehreren Jahrhunderten versuchte, das Rad zu zerstören, und der Kiran auffällig ähnelt. **Tavan gesteht**, diese Aufzeichnungen seit Jahrzehnten zu kennen und sich selbst für ihre Geheimhaltung eingesetzt zu haben. Kiran fühlt sich verraten. → [Kap. 10.1](10-gruppe.md#was-tavan-wirklich-weiß--und-sein-geständnis-in-akt-iii-festgelegt-in-03-k-17), [12.5](12-urfragmente-und-orte-nirayas.md#125-kirans-früherer-zerstörungsversuch-und-die-geheimhaltung-des-ordens-k-20)
+
+> **Orte und Ereignisse aus 0.3 in Akt III** (Reihenfolge noch festzulegen, siehe K-36):
+> - **Archiv der Ersten** – Kiran öffnet es mit der Signatur der Ewigkeit; die Gruppe erfährt erstmals von einem sechsten Wesen.
+> - **Rückkehr in Kirans Heimatdorf** – der Baum ist halb abgestorben, das Dorf überwuchert; Kiran tritt bewusst mit dem Urfragment Dharans in Verbindung und sieht die letzten Stunden Nirayas.
+> - **Halle des Abschieds** (gegen Ende des Aktes) – Kiran erfährt von seiner Freundschaft mit Ishvar und davon, dass das Rad nur eine vorübergehende Rettung sein sollte.
+> - Kirans Fähigkeit, Anlagen Nirayas zu öffnen, wächst schrittweise (KR-04). → [Kap. 12.3](12-urfragmente-und-orte-nirayas.md#123-die-verborgenen-orte-nirayas-k-18)
 
 Dort erfährt sie erstmals vom **Großen Verstummen**.
 
@@ -206,7 +221,8 @@ Diese Erkenntnis wurde jedoch aus seinem Gedächtnis entfernt.
 2. Enthüllung: das Große Verstummen; das Rad ist künstlich; die vier Opfer; Ishvar als fünfter Hüter.
 3. Erkenntnis: Der Gelehrte ist Ishvar.
 4. Kirans Erinnerungen kehren zurück; Enthüllung seiner Natur als Ewigkeit.
-5. Persönliche Krisen: Mira (Glaube), Tavan (Geständnis des Ordens), Daren (Kriegsschuld).
+5. Persönliche Krisen: Mira (Glaube), Tavan (Geständnis über den früheren Zerstörungsversuch und seine eigene Rolle bei der Geheimhaltung), Daren (Kriegsschuld).
+5a. Archiv der Ersten; Rückkehr ins Heimatdorf und Erinnerung an die letzten Stunden Nirayas; Halle des Abschieds (gegen Aktende).
 6. Erkenntnis: Das Rad zerstört die Welt langfristig – seine einfache Zerstörung wäre ebenfalls katastrophal.
 7. Kiran erinnert sich an den früheren Zerstörungsversuch.
 8. Ishvar tritt offen als Gegenspieler auf; versucht, Kiran zu kontrollieren.
@@ -233,6 +249,8 @@ Die elementaren Grenzen beginnen sich aufzulösen.
 Gleichzeitig überlagern sich Fragmente Nirayas mit der gegenwärtigen Welt.
 
 Alte Gebäude erscheinen an Orten, an denen seit Jahrtausenden keine Siedlungen mehr existierten.
+
+In der **Schwelle der Ewigkeit**, einer vom übrigen Raum getrennten Anlage im ursprünglichen Zentrum Nirayas, die Ishvar nicht betreten kann, findet die Gruppe Hinweise darauf, dass das Rad möglicherweise verändert oder beendet werden kann (Funktionsweise offen, [Kap. 12.3](12-urfragmente-und-orte-nirayas.md#123-die-verborgenen-orte-nirayas-k-18)).
 
 Die Gruppe erreicht schließlich das **Herz des Großen Rades**.
 

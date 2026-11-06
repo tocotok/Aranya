@@ -1,6 +1,6 @@
 # 1. Grundidee
 
-> Story-Bibel · Version 0.2 · Spoiler-Stufe: gering (die letzten beiden Sätze deuten die zentralen Enthüllungen an)
+> Story-Bibel · Version 0.3 · Spoiler-Stufe: gering (die letzten beiden Sätze deuten die zentralen Enthüllungen an)
 
 Aranya ist eine fantastische Welt, deren vier große Reiche von den Elementen Erde, Wasser, Feuer und Wind geprägt sind.
 

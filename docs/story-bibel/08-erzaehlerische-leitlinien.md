@@ -1,6 +1,6 @@
 # 8. Erzählerische Leitlinien
 
-> Story-Bibel · Version 0.2 · Spoiler-Stufe: gering
+> Story-Bibel · Version 0.3 · Spoiler-Stufe: gering
 
 Diese Leitlinien gelten für alle Inhalte, die aus der Story-Bibel entstehen – Dialoge, Nebenquests, Orte, Figuren und Handlungsaktionen.
 

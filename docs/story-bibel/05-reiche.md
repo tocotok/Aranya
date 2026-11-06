@@ -1,6 +1,6 @@
 # 5. Die vier Reiche Aranyas
 
-> Story-Bibel · Version 0.2 · Spoiler-Stufe: mittel
+> Story-Bibel · Version 0.3 · Spoiler-Stufe: mittel
 
 ## Übersicht
 

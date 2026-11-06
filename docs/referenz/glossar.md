@@ -2,6 +2,8 @@
 
 > **Version 0.2** – einschließlich der Ergänzungen K-02 und K-06 · **Verbindlich**
 >
+> **Nachgetragen:** Begriffe aus der Story-Bibel 0.3 (K-15 bis K-21) sind mit *(0.3)* markiert. Gemäß 0.3 ersetzen diese Festlegungen widersprechende Aussagen des Glossars.
+>
 > Dieses Glossar dient als zentrale Referenz für die Entwicklung von Aranya. Alle hier aufgeführten Namen, Begriffe und Zusammenhänge gelten als verbindlich, sofern sie nicht ausdrücklich als vorläufig gekennzeichnet sind.
 >
 > Dieses Glossar ersetzt die vorherige Version 0.1. Abweichungen zur Story-Bibel, die beim Abgleich aufgefallen sind, stehen in den [Konsistenz-Notizen](../pflege/konsistenz-notizen.md) (K-22 ff.).
@@ -18,11 +20,17 @@
 | **Sahira** | Reich des Wassers. Handelsmacht mit Lagunen, Flüssen, Inseln und weitläufigen Kanalsystemen. |
 | **Rakta** | Reich des Feuers. Militärisch und technologisch fortgeschrittenes Königreich in einer vulkanischen Landschaft. |
 | **Avela** | Reich des Windes. Gebirgsregion mit Klöstern, schwebenden Felsen und Windschiffen. |
-| **Namaru** | Dorf, dessen Bewohner durch einen uralten Baum in einem lokalen Wiedergeburtskreislauf gefangen sind. |
+| **Namaru** | Dorf, dessen Bewohner durch einen uralten Baum in einem lokalen Wiedergeburtskreislauf gefangen sind. Der Baum ist ein *elementarer Knoten*, kein Urfragment. *(0.3)* |
 | **Herz des Großen Rades** | Mystischer Mittelpunkt des künstlichen Kreislaufs. Hier laufen die elementaren Kräfte und Bewusstseinsströme zusammen. |
 | **Wurzeltempel** | Alte elementare Heiligtümer, die Kräfte der ursprünglichen Hüter bündeln und stabilisieren. |
 | **Kirans Heimatdorf** | Kleines Dorf am Rand des großen Waldes von Vanara. Name noch offen. |
-| **Heiliger Baum** | Uralter Baum in Kirans Heimatdorf, dessen Wurzeln ein Fragment der ursprünglichen Kraft Dharans enthalten. |
+| **Heiliger Baum** | Uralter Baum in Kirans Heimatdorf, dessen Wurzeln ein Fragment der ursprünglichen Kraft Dharans enthalten. Die Wurzeln reichen bis zu einer Ruine Nirayas. Nach dem Angriff schwer beschädigt, in Akt III mit abgestorbener Krone. *(0.3)* |
+| **Archiv der Ersten** *(0.3)* | Unterirdischer Wissensspeicher aus der Zeit Nirayas; nur mit der Signatur der Ewigkeit zugänglich, für Ishvar verschlossen. Kiran öffnet es in Akt III. |
+| **Halle des Abschieds** *(0.3)* | Uraltes Heiligtum, in dem die sechs Wesen vor der Erschaffung des Rades zusammenkamen; bewahrt Erinnerungen an ihre Gespräche. Zugänglich gegen Ende von Akt III. |
+| **Schwelle der Ewigkeit** *(0.3)* | Vom übrigen Raum getrennte Anlage im ursprünglichen Zentrum Nirayas zur Erforschung der Verbindung zwischen Elementen und Ewigkeit; für Ishvar verschlossen. Entscheidender Ort in Akt IV. |
+| **Urfragment Varunis** *(0.3)* | In einem unterirdischen See unter einer alten Tempelanlage Sahiras. |
+| **Urfragment Agnars** *(0.3)* | Tief unter den vulkanischen Gebirgen Raktas; besonders instabil, teilweise von Raktas Ingenieuren genutzt. |
+| **Urfragment Vayus** *(0.3)* | In einem abgelegenen Heiligtum hoch über den schwebenden Felsen Avelas; bewahrt Eindrücke, Stimmen und emotionale Spuren. |
 | **Archive von Avela** | Historische und religiöse Archive des Ordens der Stillen Winde. Enthalten Fragmente der wahren Geschichte Nirayas. |
 
 ---
@@ -46,7 +54,7 @@
 |---|---|---|---|
 | **Kiran** | 19 | Schwertkämpfer / Allrounder | Junger Kurier aus Vanara. Unwissentlich die wiedergeborene Verkörperung der Ewigkeit. Protagonist. |
 | **Mira** | 21 | Heilerin / Naturmagie | Junge Tempelwächterin aus Vanara. Ihr Glaube an das Große Rad wird im Verlauf der Geschichte erschüttert. |
-| **Daren** | 34 | Tank / Lanzenkämpfer | Desertierter Soldat aus Rakta. Trägt Schuld an Kriegsverbrechen und sucht nach Vergebung. |
+| **Daren** | 34 | Tank / Lanzenkämpfer | Desertierter Soldat aus Rakta. Trägt Schuld an Kriegsverbrechen und sucht nach Vergebung. *(0.3:)* Ehemaliger Offizier; einer der verantwortlichen Offiziere beim Angriff auf Kirans Dorf; verschweigt dies bis Akt II. |
 | **Seya** | 24 | Wassermagierin / Kontrolle | Adlige aus Sahira. Kann Erinnerungen wahrnehmen, die im Wasser gespeichert sind. |
 | **Paku** | Unbekannt | Dieb / Geschwindigkeit | Sprechender Waldbewohner einer vom Aussterben bedrohten Spezies. Humorvoll, aber mit tragischem Hintergrund. |
 | **Tavan** | 67 | Mönch / Nahkampf | Ehemaliger Lehrer des Ordens der Stillen Winde aus Avela. Schließt sich am Ende von Akt II der Gruppe an. |
@@ -66,7 +74,7 @@
 | **Königin von Rakta** | Herrscherin des Feuerreiches. Versucht, die elementaren Heiligtümer unter ihre Kontrolle zu bringen, um den drohenden Zusammenbruch des Großen Rades zu verhindern. Name noch offen. |
 | **Orden der Stillen Winde** | Alter religiöser Orden aus Avela. Bewahrt historische Aufzeichnungen und unterdrückt bestimmtes Wissen über Niraya und das Große Rad. |
 | **Ordensführung von Avela** | Führende Mitglieder des Ordens der Stillen Winde. Verweigern Tavan und der Gruppe den Zugang zu verbotenen Archiven. |
-| **Soldaten von Rakta** | Militärische Streitkräfte des Feuerreiches. Greifen in Akt I Kirans Heimatdorf an, um ein Fragment Dharans sicherzustellen. |
+| **Soldaten von Rakta** | Militärische Streitkräfte des Feuerreiches. Greifen in Akt I Kirans Heimatdorf an, um ein Fragment Dharans sicherzustellen. *(0.3:)* Offiziell sollen sie eine ungewöhnliche Energiequelle sichern; dass es ein Urfragment ist, wissen sie nicht. |
 | **Die Ersten Hüter** | Sammelbezeichnung für die fünf ursprünglichen elementaren Wesen Dharan, Varuni, Agnar, Vayu und Ishvar. |
 | **Das sechste Wesen** | Bezeichnung für die Verkörperung der Ewigkeit, die außerhalb der fünf Naturelemente steht. Ursprüngliche Identität Kirans. |
 | **Der Bewahrer** | Titel Ishvars als letzter überlebender elementarer Hüter und Wächter des Großen Rades. |
@@ -105,6 +113,11 @@
 | **Aktivierung der Ewigkeit** | Erwachen von Kirans ursprünglicher Kraft. Verursacht eine Störung im Äther, die Ishvar wahrnehmen kann. |
 | **Erinnerungserwachen** | Prozess, bei dem Kiran Fragmente seiner früheren Inkarnationen zurückerlangt. |
 | **Erinnerungsunterdrückung** | Magischer Eingriff mithilfe bestimmter Einrichtungen des Großen Rades, durch den Ishvar Erinnerungen einer Inkarnation Kirans unterdrücken kann. |
+| **Urfragment** *(0.3)* | Konzentration der ursprünglichen Energie eines geopferten Hüters. Kein lebendes Wesen, keine erhaltene Seele, kein freier Wille – ein „Echo“ mit Erinnerungen, Absichten und festgelegten Reaktionen. In jedem Reich mindestens eines. |
+| **Elementarer Knoten** *(0.3)* | Später entstandene Konzentration elementarer Energie an einem Ort (z. B. der Baum von Namaru). Kein Urfragment. |
+| **Elementare Resonanz** *(0.3)* | Gegenseitige Beeinflussung bestehender elementarer Kräfte; für Ishvar nicht einzeln über große Entfernung wahrnehmbar. |
+| **Resonanz der Ewigkeit** *(0.3)* | Unmittelbare Verbindung von Kirans ursprünglicher Kraft mit einer Einrichtung Nirayas oder dem Rad; erzeugt eine außergewöhnliche Störung im Äther, die Ishvar über große Entfernung (ohne genauen Ursprung) wahrnimmt. |
+| **Signatur der Ewigkeit** *(0.3)* | Kirans ursprüngliche, vor dem Rad bestehende Kraftsignatur, die bestimmte Anlagen Nirayas erkennen. |
 | **Natürlicher Kreislauf** | Ursprünglicher Zustand von Leben und Tod vor dem Großen Verstummen. Seine genaue Funktionsweise ist noch nicht vollständig festgelegt. |
 
 ---
@@ -119,19 +132,25 @@
 | Kirans Bindung | Vor ca. 3.000 Jahren | Kiran wird als Verkörperung der Ewigkeit an den Wiedergeburtskreislauf gebunden. |
 | Ishvars moralischer Verfall | Über Jahrtausende | Ishvar entwickelt sich vom fürsorglichen Bewahrer zum machtorientierten Herrscher im Verborgenen. |
 | Ishvars Selbstmanipulation | Zeitpunkt offen | Ishvar entfernt die Erkenntnis über die mögliche Beendigung des Großen Rades aus seinem eigenen Gedächtnis. |
-| Frühere Katastrophe durch Kiran | Zeitpunkt offen | Eine frühere Inkarnation Kirans versucht, das Rad zu zerstören. Hunderttausende sterben. |
+| Frühere Katastrophe durch Kiran | Vor mehreren Jahrhunderten *(0.3)* | Eine frühere Inkarnation Kirans versucht mit Gelehrten und Magiern, die elementaren Verbindungen des Rades zu lösen. Hunderttausende sterben; einige Regionen haben sich bis heute nicht erholt. Danach versiegelt der Orden der Stillen Winde die Aufzeichnungen. |
 | Lichterfest in Vanara | Akt I | Der heilige Baum erkennt Kiran und warnt ihn vor seinen Erinnerungen. |
-| Angriff auf das Heimatdorf | Akt I | Soldaten Raktas versuchen, das Fragment Dharans sicherzustellen. Kiran flieht. |
+| Angriff auf das Heimatdorf | Akt I | Soldaten Raktas versuchen, das Fragment Dharans sicherzustellen. Kiran flieht. *(0.3:)* Das Fragment setzt Energie frei, das Dorf wird überwuchert; Darens Absperrung kostet Menschenleben; Daren desertiert. |
 | Erste Begegnung mit Tavan | Akt I | Die Gruppe begegnet dem Mönch an einem Schrein in Vanara. |
 | Erste Begegnung mit Ishvar | Akt I | Ishvar erscheint unter der Identität eines reisenden Gelehrten. |
 | Zweite Begegnung mit Tavan | Akt II | Tavan untersucht Naturphänomene in Sahira. |
+| Darens Enthüllung *(0.3)* | Akt II | Einsatzberichte zeigen, dass Daren verantwortlicher Offizier beim Dorfangriff war. |
 | Ereignisse von Namaru | Akt II | Die Gruppe entdeckt einen lokalen Wiedergeburtskreislauf und muss eine moralische Entscheidung treffen. |
 | Tavans Beitritt | Ende Akt II | Tavan schließt sich der Gruppe dauerhaft an. |
 | Ishvars Gewissheit | Ende Akt II | Ishvar erkennt endgültig, dass Kiran die Ewigkeit verkörpert. |
 | Enthüllung Nirayas | Akt III | Die Gruppe erfährt die Wahrheit über die ursprüngliche Welt. |
 | Tavans Bruch mit dem Orden | Akt III | Tavan öffnet der Gruppe den Zugang zu verbotenem Wissen und wird ausgeschlossen. |
+| Tavans Geständnis *(0.3)* | Akt III | Tavan kannte die Aufzeichnungen über Kirans früheren Zerstörungsversuch und setzte sich selbst für ihre Geheimhaltung ein. |
+| Öffnung des Archivs der Ersten *(0.3)* | Akt III | Kiran öffnet das Archiv; die Gruppe erfährt vom sechsten Wesen. |
+| Rückkehr ins Heimatdorf *(0.3)* | Akt III | Kiran tritt bewusst mit dem Urfragment Dharans in Verbindung und sieht die letzten Stunden Nirayas. |
+| Halle des Abschieds *(0.3)* | Ende Akt III | Kiran erfährt von seiner Freundschaft mit Ishvar und vom vorübergehenden Zweck des Rades. |
 | Kirans Erkenntnis | Akt III | Kiran erfährt von seiner ursprünglichen Identität und früheren Inkarnationen. |
 | Ishvars Enthüllung | Akt III | Der reisende Gelehrte offenbart sich als letzter elementarer Hüter. |
+| Schwelle der Ewigkeit *(0.3)* | Akt IV | Hinweise darauf, dass das Rad verändert oder beendet werden kann. |
 | Zusammenbruch des Rades | Akt IV | Die elementaren Kräfte geraten außer Kontrolle. Die Welt beginnt sich aufzulösen. |
 | Letzte Konfrontation | Akt IV | Kiran und Ishvar begegnen sich im Herzen des Großen Rades. |
 | Entscheidung über das Rad | Finale | Der Spieler entscheidet über das weitere Schicksal der Welt. |
@@ -191,6 +210,8 @@
 | G-16 | Die religiöse Inspiration dient der Entwicklung einer eigenständigen Fantasy-Mythologie und darf nicht unreflektiert mit realen Glaubenslehren gleichgesetzt werden. |
 | G-17 | Neue Namen, Regeln und historische Ereignisse müssen mit diesem Glossar und der Story-Bibel abgeglichen werden. |
 
+> Weitere verbindliche Regeln: **R-01 bis R-05** ([Kap. 11.1](../story-bibel/11-ishvar-und-die-inkarnationen.md#111-verbindliche-regeln-der-mythologie)) und **KR-01 bis KR-10** ([Kap. 12.6](../story-bibel/12-urfragmente-und-orte-nirayas.md#126-verbindliche-konsistenzregeln-version-03)).
+
 ---
 
 ## Anhang: Weitere Begriffe aus der Story-Bibel
@@ -199,7 +220,7 @@
 
 | Begriff | Erklärung | Quelle |
 |---|---|---|
-| **Fragment Dharans** | Fragment der Kraft Dharans in den Wurzeln des heiligen Baumes; bewahrt Erinnerungen aus Niraya, erkennt Kiran und warnt ihn. | Kap. 11.3 |
+| **Fragment Dharans** | Urfragment Dharans in den Wurzeln des heiligen Baumes; bewahrt Erinnerungen an die Erschaffung des Rades und an Kiran, reagiert auf ihn mit einer Warnung. | Kap. 11.3, 12.1 |
 | **Gastmitglied** | Figur, die nur zeitweise spielbar ist. Das Spiel hat zwei Gastmitglieder neben acht festen Gruppenmitgliedern. | README, Kap. 10 |
 | **Lichterfest** | Traditionelles Fest in Kirans Heimatdorf; währenddessen verliert der heilige Baum seine Blätter und spricht zu Kiran. | Kap. 6 (Akt I) |
 | **Störung im Äther** | Folge der Aktivierung der Ewigkeit; einzige Möglichkeit für Ishvar, eine Inkarnation Kirans wahrzunehmen. | Kap. 11.1 |

@@ -1,6 +1,6 @@
 # 2. Die wahre Geschichte der Welt
 
-> Story-Bibel · Version 0.2 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.3 · Spoiler-Stufe: **hoch**
 >
 > Dieser Abschnitt beschreibt die tatsächliche Mythologie Aranyas. Der Spieler erfährt diese Zusammenhänge erst schrittweise im Verlauf der Handlung.
 

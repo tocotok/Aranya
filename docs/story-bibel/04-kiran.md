@@ -1,6 +1,6 @@
 # 4. Kiran – Die Ewigkeit
 
-> Story-Bibel · Version 0.2 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.3 · Spoiler-Stufe: **hoch**
 
 Kiran ist der **Protagonist** des Spiels.
 
@@ -79,10 +79,14 @@ Die vollständigen Regeln stehen in [Kapitel 11.1](11-ishvar-und-die-inkarnation
 | Einige | Früh gestorben | Kanon |
 | Einige | Entdeckte seine wahre Herkunft | Kanon |
 | Mehrere | Versuchte, das Rad zu beenden | Kanon |
-| Eines | Rad beinahe zerstört, Hunderttausende Tote, Ishvar verhindert den Zusammenbruch | Kanon (Zeitpunkt, Ort, Umstände offen) |
+| Eines (vor mehreren Jahrhunderten) | Entdeckte Teile der Wahrheit; versuchte mit Gelehrten und Magiern (darunter Mitglieder des Ordens der Stillen Winde), die elementaren Verbindungen des Rades zu lösen. Der Versuch scheiterte: Hunderttausende Tote, verwüstete Landstriche, einige Regionen bis heute nicht erholt. Ishvar verhinderte den vollständigen Zusammenbruch. Folge: Geheimhaltung des Ordens. | Kanon (0.3, [Kap. 12.5](12-urfragmente-und-orte-nirayas.md#125-kirans-früherer-zerstörungsversuch-und-die-geheimhaltung-des-ordens-k-20)); Ort offen |
 | Einige | Kraft erwachte in der Kindheit | Kanon (0.2) |
 | Einige | Kraft erwachte erst im Erwachsenenalter | Kanon (0.2) |
 | Einige | Blieben Ishvar vollständig unbekannt | Kanon (0.2) |
+
+## Kirans Signatur der Ewigkeit *(0.3)*
+
+Kirans Verbindung zur Ewigkeit existierte bereits vor dem Großen Rad und ist deshalb nicht vollständig an dessen Regeln gebunden. Bestimmte Anlagen Nirayas erkennen diese ursprüngliche Signatur. Kiran lernt erst im Verlauf von Akt III, sie zu nutzen – sie ist kein universeller Schlüssel (KR-04). → [Kap. 12.3](12-urfragmente-und-orte-nirayas.md#123-die-verborgenen-orte-nirayas-k-18)
 
 ## Wiederkehrender Traum
 

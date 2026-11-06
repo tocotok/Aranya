@@ -42,7 +42,7 @@ Jedes Kapitel trägt eine Spoiler-Stufe, damit Inhalte gezielt an Personen weite
 
 ## 6. Verbindliche Regeln der Mythologie
 
-Bestimmte Festlegungen sind als **Regeln** markiert: `R-xx` in [Kapitel 11.1](../story-bibel/11-ishvar-und-die-inkarnationen.md#111-verbindliche-regeln-der-mythologie) und `G-xx` im [Glossar, Abschnitt 10](../referenz/glossar.md#10-verbindliche-regeln-für-die-weitere-entwicklung). Für sie gilt:
+Bestimmte Festlegungen sind als **Regeln** markiert: `R-xx` in [Kapitel 11.1](../story-bibel/11-ishvar-und-die-inkarnationen.md#111-verbindliche-regeln-der-mythologie), `KR-xx` in [Kapitel 12.6](../story-bibel/12-urfragmente-und-orte-nirayas.md#126-verbindliche-konsistenzregeln-version-03) und `G-xx` im [Glossar, Abschnitt 10](../referenz/glossar.md#10-verbindliche-regeln-für-die-weitere-entwicklung). Für sie gilt:
 
 - Sie dürfen im weiteren Verlauf der Geschichte **nicht ohne ausdrückliche Neufestlegung** aufgehoben oder umgangen werden – auch nicht für einzelne Szenen.
 - Eine Neufestlegung wird im Änderungsprotokoll als **Kanon-Änderung** vermerkt und nennt die betroffene Regel.

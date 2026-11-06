@@ -1,6 +1,6 @@
 # Figurenregister
 
-> Abgeleitete Übersicht · Stand: Story-Bibel 0.2 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
+> Abgeleitete Übersicht · Stand: Story-Bibel 0.3 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
 >
 > Einträge mit „–“ sind im Kanon noch nicht festgelegt.
 
@@ -18,9 +18,9 @@ Festgelegt (Version 0.2): **8 feste spielbare Charaktere** und **2 Gastmitgliede
 |---|---|---|---|---|---|
 | **Kiran** | Protagonist, Kurier (19); Schwertkämpfer / Allrounder – in Wahrheit Inkarnation der Ewigkeit | Dorf am Rand des großen Waldes, Vanara | Akt I (Start) | Verantwortung für Taten früherer Leben; gebunden oder frei? | Kap. 4, 6, 7 |
 | **Mira** | Junge Tempelwächterin (21); Heilerin / Naturmagie | Vanara (ob aus Kirans Dorf: offen, [K-04](../pflege/konsistenz-notizen.md)) | Akt I (Flucht aus dem Dorf) | Glaube vs. Institutionen, die den Glauben benutzen | Kap. 6, 7 |
-| **Daren** | Desertierter Soldat (34); Tank / Lanzenkämpfer | Rakta | Akt I (Flucht aus dem Dorf) | Trägt Schuld an Kriegsverbrechen, sucht Vergebung; Verantwortung für den Krieg | Kap. 6, 7 |
-| **Tavan** | Mönch (67), Mönch / Nahkampf; ehemals angesehener Lehrer des Ordens der Stillen Winde; Kampffunktion: Mönch (Körpertechnik + spirituelle Fähigkeiten) | Avela | Begegnungen in Akt I (Vanara) und Akt II (Sahira); **dauerhafter Beitritt Ende Akt II** | Eid gegenüber dem Orden vs. Wahrheit; wird in Akt III ausgeschlossen | Kap. 10.1 |
-| **Seya** | Adlige (24); Wassermagierin / Kontrolle; nimmt im Wasser gespeicherte Erinnerungen wahr | Sahira | – | – | Glossar 0.2, Kap. 10.2 |
+| **Daren** | Desertierter Soldat (34); Tank / Lanzenkämpfer | Rakta | Akt I (Flucht aus dem Dorf) | Ehemaliger Offizier; mitverantwortlich für den Angriff auf Kirans Dorf, verschweigt dies bis Akt II; übernimmt Verantwortung, ohne Vergebung zu erwarten | Kap. 6, 7, 10.4 |
+| **Tavan** | Mönch (67), Mönch / Nahkampf; ehemals angesehener Lehrer des Ordens der Stillen Winde; Kampffunktion: Mönch (Körpertechnik + spirituelle Fähigkeiten) | Avela | Begegnungen in Akt I (Vanara) und Akt II (Sahira); **dauerhafter Beitritt Ende Akt II** | Eid gegenüber dem Orden vs. Wahrheit; verschwieg sein Wissen über Kirans früheren Zerstörungsversuch; wird in Akt III ausgeschlossen | Kap. 10.1 |
+| **Seya** | Adlige (24); Wassermagierin / Kontrolle; nimmt im Wasser gespeicherte Erinnerungen wahr | Sahira | – | – | Glossar 0.2, Kap. 10.2, 12.1 (Urfragment Varunis) |
 | **Paku** | Sprechender Waldbewohner (Alter unbekannt) einer vom Aussterben bedrohten Spezies; Dieb / Geschwindigkeit; humorvoll, tragischer Hintergrund | – | – | – | Glossar 0.2, Kap. 10.3 |
 | *Charakter 7–10* | – | – | – | – | Glossar 0.2, offene Frage 9 |
 
@@ -56,10 +56,12 @@ Zwei Figuren, die nur in bestimmten Abschnitten spielbar sind. Identität, Zeitr
 |---|---|---|
 | **Die Königin von Rakta** | Herrscherin Raktas; weiß um die Instabilität des Rades; will die vier Heiligtümer bündeln. Gewaltsame Methoden, begründete Befürchtungen. Name: – | Kap. 6 (Akt II), offene Frage 6 |
 | **Der heilige Baum (Heimatdorf)** | Birgt in seinen Wurzeln ein **Fragment der Kraft Dharans**, das Erinnerungen aus Niraya bewahrt. Erkennt Kiran und warnt ihn: „Diesmal darfst du dich nicht erinnern.“ Dorfbewohner erzählen, er spreche manchmal im Schlaf. | Kap. 6 (Akt I), 8, 11.3 |
-| **Der uralte Baum von Namaru** | Bewahrt das Bewusstsein der Dorfbewohner, entzieht der Natur Bewusstsein | Kap. 6 (Akt II) |
+| **Der uralte Baum von Namaru** | Elementarer Knoten (kein Urfragment); bewahrt das Bewusstsein der Dorfbewohner, entzieht der Natur Bewusstsein | Kap. 6 (Akt II), 12.1 |
+| **Urfragmente Dharans, Varunis, Agnars, Vayus** | Echos der geopferten Hüter ohne eigenen Willen (KR-01) | Kap. 12.1 |
+| **Darens Vorgesetzter** | Ordnet nach dem Angriff die Festnahme der Überlebenden an; Name offen | Kap. 10.4 |
 | **Die Bewohner Namarus** | Werden seit Jahrhunderten im selben Dorf wiedergeboren und erinnern sich | Kap. 6 (Akt II) |
 | **Mönche Avelas** | Kennen Fragmente der wahren Geschichte, halten sie zurück | Kap. 5.4 |
 | **Orden der Stillen Winde** | Einer der ältesten religiösen Orden Aranyas (Avela); bewahrt Aufzeichnungen bis in die ersten Jahrhunderte nach dem Großen Verstummen; kennt den Namen Niraya, nicht die ganze Wahrheit; oberste Regel: bestimmte Überlieferungen nicht weitergeben. Schließt Tavan in Akt III aus. | Kap. 10.1 |
 | **Ordensführung von Avela** | Führende Mitglieder des Ordens der Stillen Winde; verweigern Tavan und der Gruppe die verbotenen Archive | Glossar 0.2, Kap. 10.1 |
-| **Soldaten Raktas (Dorfangriff)** | Auftrag: Fragment Dharans sichern, Träger ungewöhnlicher Kräfte festsetzen, nicht töten; kennen Kirans Identität nicht | Kap. 11.5 |
+| **Soldaten Raktas (Dorfangriff)** | Offizieller Auftrag: ungewöhnliche Energiequelle untersuchen und sichern; kennen weder das Urfragment noch Kirans Identität; Daren ist einer der verantwortlichen Offiziere | Kap. 10.4, 11.5, 12.2 |
 | **Magier Sahiras** | Können im Wasser zurückgebliebene Erinnerungen wahrnehmen | Kap. 5.2 |

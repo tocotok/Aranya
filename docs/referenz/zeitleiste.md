@@ -1,10 +1,10 @@
 # Zeitleiste
 
-> Abgeleitete Übersicht · Stand: Story-Bibel 0.3 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
+> Abgeleitete Übersicht · Stand: Story-Bibel 0.4 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
 >
-> Konkrete Jahreszahlen sind bisher nicht festgelegt. Die Story-Bibel nennt **mehr als dreitausend Jahre**, das Glossar **ca. 3.000 Jahre** seit dem Ende Nirayas (siehe [K-27](../pflege/konsistenz-notizen.md)).
+> Konkrete Jahreszahlen sind bisher nicht festgelegt. Seit dem Ende Nirayas sind **etwas mehr als 3.000 Jahre** vergangen (0.4; „ca. 3.000“ als Näherung zulässig).
 >
-> Zeitalter laut Glossar: **erstes Zeitalter** (Niraya), **zweites Zeitalter** (die vier Reiche), **letztes Zeitalter** (die Gegenwart, in der das Rad seinem möglichen Ende entgegengeht; Abgrenzung siehe [K-26](../pflege/konsistenz-notizen.md)).
+> Zeitalter laut Glossar: **erstes Zeitalter** (Niraya), **zweites Zeitalter** (die vier Reiche), **letztes Zeitalter** – kein offizielles Zeitalter, sondern ein Begriff des Ordens der Stillen Winde für die Endphase des Rades; offiziell gilt das zweite Zeitalter (0.4).
 
 ## Erstes Zeitalter – Niraya
 
@@ -25,7 +25,7 @@
 |---|---|---|
 | Erste Jahrhunderte | Ishvar führt die neue Welt mit Geduld und Fürsorge, schützt die Heiligtümer | Kap. 3 |
 | Frühe Jahrhunderte | In Avelas Klöstern entstehen Texte, die bis heute erhalten sind | Kap. 5.4 |
-| Über Jahrhunderte | Kriege, Seuchen, Hungersnöte; Ishvar beginnt einzugreifen, später zu manipulieren; Aufzeichnungen werden verändert, Wissen über Niraya unterdrückt | Kap. 3 |
+| Über Jahrhunderte | Kriege, Seuchen, Hungersnöte; Ishvar beginnt einzugreifen, später zu manipulieren; Aufzeichnungen werden verändert, Wissen über Niraya unterdrückt – auch die Archive Avelas werden verfälscht („fünf Opfer“) | Kap. 3 |
 | Über Jahrtausende | Unbemerkter Verlust geistiger Substanz im Rad | Kap. 2.4 |
 | Zeitpunkt offen | Ishvar erkennt, dass das Rad beendet werden könnte, und entfernt dieses Wissen aus seinem Bewusstsein | Kap. 3 |
 | Unzählige Leben | Kiran wird wiedergeboren; mehrere Versuche, das Rad zu beenden. Seine Kraft erwacht mal in der Kindheit, mal im Erwachsenenalter; einige Inkarnationen bleiben Ishvar unbekannt | Kap. 4, 11.2 |

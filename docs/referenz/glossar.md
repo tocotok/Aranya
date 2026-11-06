@@ -25,13 +25,13 @@
 | **Wurzeltempel** | Alte elementare Heiligtümer, die Kräfte der ursprünglichen Hüter bündeln und stabilisieren. |
 | **Kirans Heimatdorf** | Kleines Dorf am Rand des großen Waldes von Vanara. Name noch offen. |
 | **Heiliger Baum** | Uralter Baum in Kirans Heimatdorf, dessen Wurzeln ein Fragment der ursprünglichen Kraft Dharans enthalten. Die Wurzeln reichen bis zu einer Ruine Nirayas. Nach dem Angriff schwer beschädigt, in Akt III mit abgestorbener Krone. *(0.3)* |
-| **Archiv der Ersten** *(0.3)* | Unterirdischer Wissensspeicher aus der Zeit Nirayas; nur mit der Signatur der Ewigkeit zugänglich, für Ishvar verschlossen. Kiran öffnet es in Akt III. |
+| **Archiv der Ersten** *(0.3)* | Unterirdischer Wissensspeicher aus der Zeit Nirayas; nur mit der Signatur der Ewigkeit zugänglich, für Ishvar verschlossen. Kiran öffnet es in Akt III. Enthält die unverfälschte Wahrheit über die vier Opfer, den überlebenden Bewahrer und das sechste Wesen. *(0.4)* |
 | **Halle des Abschieds** *(0.3)* | Uraltes Heiligtum, in dem die sechs Wesen vor der Erschaffung des Rades zusammenkamen; bewahrt Erinnerungen an ihre Gespräche. Zugänglich gegen Ende von Akt III. |
 | **Schwelle der Ewigkeit** *(0.3)* | Vom übrigen Raum getrennte Anlage im ursprünglichen Zentrum Nirayas zur Erforschung der Verbindung zwischen Elementen und Ewigkeit; für Ishvar verschlossen. Entscheidender Ort in Akt IV. |
 | **Urfragment Varunis** *(0.3)* | In einem unterirdischen See unter einer alten Tempelanlage Sahiras. |
 | **Urfragment Agnars** *(0.3)* | Tief unter den vulkanischen Gebirgen Raktas; besonders instabil, teilweise von Raktas Ingenieuren genutzt. |
 | **Urfragment Vayus** *(0.3)* | In einem abgelegenen Heiligtum hoch über den schwebenden Felsen Avelas; bewahrt Eindrücke, Stimmen und emotionale Spuren. |
-| **Archive von Avela** | Historische und religiöse Archive des Ordens der Stillen Winde. Enthalten Fragmente der wahren Geschichte Nirayas. |
+| **Archive von Avela** | Historische und religiöse Archive des Ordens der Stillen Winde. Enthalten Fragmente der wahren Geschichte Nirayas. *(0.4:)* Von Ishvar verfälscht: Sie berichten, alle fünf Hüter hätten sich geopfert. |
 
 ---
 
@@ -58,12 +58,12 @@
 | **Seya** | 24 | Wassermagierin / Kontrolle | Adlige aus Sahira. Kann Erinnerungen wahrnehmen, die im Wasser gespeichert sind. |
 | **Paku** | Unbekannt | Dieb / Geschwindigkeit | Sprechender Waldbewohner einer vom Aussterben bedrohten Spezies. Humorvoll, aber mit tragischem Hintergrund. |
 | **Tavan** | 67 | Mönch / Nahkampf | Ehemaliger Lehrer des Ordens der Stillen Winde aus Avela. Schließt sich am Ende von Akt II der Gruppe an. |
-| Charakter 7 | Offen | Offen | Noch zu entwickeln. |
-| Charakter 8 | Offen | Offen | Noch zu entwickeln. |
-| Charakter 9 | Offen | Offen | Noch zu entwickeln. |
-| Charakter 10 | Offen | Offen | Noch zu entwickeln. |
+| Charakter 7 | Offen | Offen | Festes Gruppenmitglied. Noch zu entwickeln. |
+| Charakter 8 | Offen | Offen | Festes Gruppenmitglied. Noch zu entwickeln. |
+| Charakter 9 | Offen | Offen | **Gastmitglied** (nur zeitweise spielbar). Noch zu entwickeln. |
+| Charakter 10 | Offen | Offen | **Gastmitglied** (nur zeitweise spielbar). Noch zu entwickeln. |
 
-> **Abgleich:** Laut Festlegung 0.2 besteht die Gruppe aus 8 festen Mitgliedern und 2 Gastmitgliedern. Ob Charakter 9 und 10 die beiden Gastmitglieder sind, ist noch nicht festgelegt → [K-22](../pflege/konsistenz-notizen.md).
+> **Festgelegt (0.4, K-22):** 8 feste Mitglieder (Charakter 1–8) und 2 Gastmitglieder (Charakter 9–10).
 
 ---
 
@@ -105,7 +105,7 @@
 | **Die Erschaffung des Großen Rades** | Ereignis, bei dem vier elementare Hüter ihre Existenz opferten, Ishvar zum Bewahrer wurde und Kiran sich an den Kreislauf band. |
 | **Das Große Rad** | Künstlicher Kreislauf, der Bewusstsein bewahrt und nach dem Tod erneut mit Leben verbindet. |
 | **Das zweite Zeitalter** | Epoche nach dem Untergang Nirayas und der Entstehung der vier heutigen Reiche. |
-| **Das letzte Zeitalter** | Bezeichnung für die gegenwärtige Epoche, in der das Große Rad seinem möglichen Ende entgegengeht. |
+| **Das letzte Zeitalter** | Bezeichnung für die gegenwärtige Epoche, in der das Große Rad seinem möglichen Ende entgegengeht. *(0.4:)* Kein offizielles Zeitalter – offiziell gilt weiterhin das zweite. Der Begriff stammt aus alten Texten des Ordens der Stillen Winde; je nach Ende erweist er sich als Prophezeiung oder Irrtum. |
 | **Wiedergeburt** | Erneute Verbindung eines bewahrten Bewusstseins mit einem neuen Leben. |
 | **Bewusstseinsfragmente** | Geistige Substanz und Erinnerungsreste verstorbener Lebewesen, die im Großen Rad gespeichert sind. |
 | **Elementare Energie** | Magische Kraft, die aus den fünf Naturelementen hervorgeht und die Welt durchdringt. |
@@ -126,10 +126,10 @@
 
 | Ereignis | Zeitpunkt | Beschreibung |
 |---|---|---|
-| Untergang Nirayas | Vor ca. 3.000 Jahren | Das Große Verstummen bedroht alles Leben. Die Hüter erschaffen das Große Rad. |
+| Untergang Nirayas | Vor ca. 3.000 Jahren (genauer: etwas mehr als 3.000) | Das Große Verstummen bedroht alles Leben. Die Hüter erschaffen das Große Rad. |
 | Opfer der vier Hüter | Vor ca. 3.000 Jahren | Dharan, Varuni, Agnar und Vayu geben ihre individuelle Existenz auf. |
 | Ishvars Ernennung | Vor ca. 3.000 Jahren | Ishvar erhält die Aufgabe, das Große Rad zu bewahren, bis die Welt ohne es bestehen kann. |
-| Kirans Bindung | Vor ca. 3.000 Jahren | Kiran wird als Verkörperung der Ewigkeit an den Wiedergeburtskreislauf gebunden. |
+| Kirans Bindung | Vor ca. 3.000 Jahren | Kiran **bindet sich freiwillig** als Verkörperung der Ewigkeit an den Wiedergeburtskreislauf. *(0.4)* |
 | Ishvars moralischer Verfall | Über Jahrtausende | Ishvar entwickelt sich vom fürsorglichen Bewahrer zum machtorientierten Herrscher im Verborgenen. |
 | Ishvars Selbstmanipulation | Zeitpunkt offen | Ishvar entfernt die Erkenntnis über die mögliche Beendigung des Großen Rades aus seinem eigenen Gedächtnis. |
 | Frühere Katastrophe durch Kiran | Vor mehreren Jahrhunderten *(0.3)* | Eine frühere Inkarnation Kirans versucht mit Gelehrten und Magiern, die elementaren Verbindungen des Rades zu lösen. Hunderttausende sterben; einige Regionen haben sich bis heute nicht erholt. Danach versiegelt der Orden der Stillen Winde die Aufzeichnungen. |
@@ -151,7 +151,7 @@
 | Kirans Erkenntnis | Akt III | Kiran erfährt von seiner ursprünglichen Identität und früheren Inkarnationen. |
 | Ishvars Enthüllung | Akt III | Der reisende Gelehrte offenbart sich als letzter elementarer Hüter. |
 | Schwelle der Ewigkeit *(0.3)* | Akt IV | Hinweise darauf, dass das Rad verändert oder beendet werden kann. |
-| Zusammenbruch des Rades | Akt IV | Die elementaren Kräfte geraten außer Kontrolle. Die Welt beginnt sich aufzulösen. |
+| Beginnender Zusammenbruch des Rades *(Bezeichnung 0.4)* | Akt IV | Die elementaren Kräfte geraten außer Kontrolle. Die Welt beginnt sich aufzulösen. Ob der Zusammenbruch vollständig wird, entscheidet das Ende. |
 | Letzte Konfrontation | Akt IV | Kiran und Ishvar begegnen sich im Herzen des Großen Rades. |
 | Entscheidung über das Rad | Finale | Der Spieler entscheidet über das weitere Schicksal der Welt. |
 

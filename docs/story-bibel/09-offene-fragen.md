@@ -1,6 +1,6 @@
 # 9. Noch offene Fragen
 
-> Story-Bibel · Version 0.3 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.4 · Spoiler-Stufe: **hoch**
 
 Die folgenden Punkte sind **bewusst noch nicht endgültig festgelegt**.
 
@@ -16,7 +16,7 @@ Die folgenden Punkte sind **bewusst noch nicht endgültig festgelegt**.
 | 6 | Welche Informationen besitzt die Königin von Rakta, und woher stammen sie? | Offen | Sie weiß, dass das Rad instabil wird; Rakta untersucht seit Jahren den Verfall der elementaren Energien. Sie will die vier Heiligtümer bündeln. Ergänzt (0.2): Ishvar hat erheblichen verdeckten Einfluss auf Raktas politische und militärische Entscheidungen; Raktas Regierung untersucht die Instabilität unabhängig davon. Ob die Königin von Ishvar weiß, bleibt offen (K-11). |
 | 7 | Wie kann das Große Rad technisch beziehungsweise magisch beendet oder verändert werden? | Offen | Ishvar wusste es einst. Ein früherer Versuch Kirans tötete Hunderttausende. Ende C setzt die gebundenen Kräfte frei, statt das Rad einfach zu zerstören. Ergänzt (0.3): Die **Schwelle der Ewigkeit** liefert in Akt IV Hinweise auf Veränderung oder Beendigung (Funktionsweise offen). Der frühere Versuch, die elementaren Verbindungen zu lösen, scheiterte katastrophal. Urfragmente dürfen keine einfache Reparatur ermöglichen (KR-09). |
 | 8 | Welche Opfer sind für das dritte Ende erforderlich? | Offen | Ende C „verlangt erhebliche Opfer“ und garantiert keine friedliche Zukunft. |
-| 9 | Welche weiteren Charaktere vervollständigen die spielbare Gruppe – und wer sind die zwei Gastmitglieder? | Offen (Gruppengröße geklärt in 0.2) | Festgelegt: **8 feste spielbare Charaktere + 2 Gastmitglieder**. Bekannt (Glossar 0.2): Kiran, Mira, Daren, Seya, Paku, Tavan → 4 Plätze offen (Charakter 7–10). Aufteilung auf feste und Gastmitglieder: [K-22](../pflege/konsistenz-notizen.md). |
+| 9 | Welche weiteren Charaktere vervollständigen die spielbare Gruppe – und wer sind die zwei Gastmitglieder? | Offen (Struktur geklärt in 0.4) | Festgelegt: **8 feste spielbare Charaktere + 2 Gastmitglieder**. Bekannt: Kiran, Mira, Daren, Seya, Paku, Tavan. **Charakter 7 und 8** sind feste Mitglieder, **Charakter 9 und 10** die Gastmitglieder – alle vier noch zu entwickeln. |
 | 10 | Welche Entscheidungen des Spielers beeinflussen das Ende und die Beziehungen zwischen den Charakteren? | Offen | Bekannt: Namaru-Entscheidung (Akt II) mit Auswirkungen auf Dorf und Gruppenbeziehungen; Schlussentscheidung (Akt IV); Ende C nur „unter bestimmten Voraussetzungen“. Siehe [Spielerentscheidungen](../referenz/spielerentscheidungen.md). |
 
 ## Offene Namen

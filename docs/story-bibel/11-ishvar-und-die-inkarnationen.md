@@ -1,6 +1,6 @@
 # 11. Ishvar und Kirans Inkarnationen – Handlungslogik
 
-> Story-Bibel · Version 0.3 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.4 · Spoiler-Stufe: **hoch**
 >
 > *(Festgelegt in Version 0.2, schließt Konsistenz-Notiz K-06 sowie offene Frage 4 und beantwortet offene Frage 5 im Kern)*
 >

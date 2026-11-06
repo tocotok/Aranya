@@ -1,6 +1,6 @@
 # Figurenregister
 
-> Abgeleitete Übersicht · Stand: Story-Bibel 0.3 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
+> Abgeleitete Übersicht · Stand: Story-Bibel 0.4 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
 >
 > Einträge mit „–“ sind im Kanon noch nicht festgelegt.
 
@@ -10,7 +10,7 @@ Festgelegt (Version 0.2): **8 feste spielbare Charaktere** und **2 Gastmitgliede
 
 | Kategorie | Anzahl | Bekannt | Offen |
 |---|---|---|---|
-| Feste Gruppenmitglieder + Gastmitglieder | 8 + 2 | 6 (Kiran, Mira, Daren, Seya, Paku, Tavan) | 4 (Glossar: Charakter 7–10) – Aufteilung auf feste und Gastmitglieder offen, siehe [K-22](../pflege/konsistenz-notizen.md) |
+| Feste Gruppenmitglieder + Gastmitglieder | 8 + 2 | 6 (Kiran, Mira, Daren, Seya, Paku, Tavan) | 4: Charakter 7–8 (fest), Charakter 9–10 (Gastmitglieder) – festgelegt in 0.4 |
 
 ### Feste Gruppenmitglieder
 
@@ -22,16 +22,16 @@ Festgelegt (Version 0.2): **8 feste spielbare Charaktere** und **2 Gastmitgliede
 | **Tavan** | Mönch (67), Mönch / Nahkampf; ehemals angesehener Lehrer des Ordens der Stillen Winde; Kampffunktion: Mönch (Körpertechnik + spirituelle Fähigkeiten) | Avela | Begegnungen in Akt I (Vanara) und Akt II (Sahira); **dauerhafter Beitritt Ende Akt II** | Eid gegenüber dem Orden vs. Wahrheit; verschwieg sein Wissen über Kirans früheren Zerstörungsversuch; wird in Akt III ausgeschlossen | Kap. 10.1 |
 | **Seya** | Adlige (24); Wassermagierin / Kontrolle; nimmt im Wasser gespeicherte Erinnerungen wahr | Sahira | – | – | Glossar 0.2, Kap. 10.2, 12.1 (Urfragment Varunis) |
 | **Paku** | Sprechender Waldbewohner (Alter unbekannt) einer vom Aussterben bedrohten Spezies; Dieb / Geschwindigkeit; humorvoll, tragischer Hintergrund | – | – | – | Glossar 0.2, Kap. 10.3 |
-| *Charakter 7–10* | – | – | – | – | Glossar 0.2, offene Frage 9 |
+| *Charakter 7–8* | – | – | – | – | Glossar 0.2, offene Frage 9 |
 
 ### Gastmitglieder
 
-Zwei Figuren, die nur in bestimmten Abschnitten spielbar sind. Identität, Zeitraum und Grund der begrenzten Spielbarkeit: offen (Frage 9). Möglicherweise Charakter 9 und 10 des Glossars ([K-22](../pflege/konsistenz-notizen.md)).
+Zwei Figuren, die nur in bestimmten Abschnitten spielbar sind. Identität, Zeitraum und Grund der begrenzten Spielbarkeit: offen (Frage 9). Es sind Charakter 9 und 10 des Glossars (0.4).
 
 | Figur | Rolle | Spielbar in | Quelle |
 |---|---|---|---|
-| *Gast 1* | – | – | Offene Frage 9 |
-| *Gast 2* | – | – | Offene Frage 9 |
+| *Gast 1 (Charakter 9)* | – | – | Offene Frage 9 |
+| *Gast 2 (Charakter 10)* | – | – | Offene Frage 9 |
 
 ## Antagonist
 

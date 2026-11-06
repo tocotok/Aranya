@@ -1,6 +1,6 @@
 # 10. Die Gruppe
 
-> Story-Bibel · Version 0.3 · Spoiler-Stufe: mittel bis hoch
+> Story-Bibel · Version 0.4 · Spoiler-Stufe: mittel bis hoch
 >
 > Dieses Kapitel sammelt ausgearbeitete Gruppenmitglieder. Zusammensetzung: **8 feste spielbare Charaktere + 2 Gastmitglieder** (siehe [Figurenregister](../referenz/figurenregister.md)). Kiran ist in [Kapitel 4](04-kiran.md) beschrieben.
 
@@ -14,7 +14,8 @@
 | 4 | **Seya** | 24 | Wassermagierin / Kontrolle | Sahira | [10.2](#102-seya) |
 | 5 | **Paku** | Unbekannt | Dieb / Geschwindigkeit | – (Waldbewohner) | [10.3](#103-paku) |
 | 6 | **Tavan** | 67 | Mönch / Nahkampf | Avela | [10.1](#101-tavan) |
-| 7–10 | *offen* | – | – | – | Siehe [K-22](../pflege/konsistenz-notizen.md) |
+| 7–8 | *offen – feste Mitglieder* | – | – | – | – |
+| 9–10 | *offen – Gastmitglieder* (nur zeitweise spielbar) | – | – | – | Festgelegt in 0.4 (K-22) |
 
 ## 10.1 Tavan
 
@@ -121,12 +122,14 @@ Diese Entscheidung prägt seine weitere Charakterentwicklung.
 
 - Er gehörte zu einem kleinen Kreis hochrangiger Ordensmitglieder mit Zugang zu besonders geschützten Überlieferungen.
 - Er weiß, dass das Große Rad **nicht natürlichen Ursprungs** ist.
-- Er kennt die Überlieferung von **fünf elementaren Hütern**, die an seiner Erschaffung beteiligt waren – glaubt aber, dass **alle fünf** ihre Existenz geopfert haben. Dass Ishvar überlebt hat, ist ihm unbekannt (KR-06).
+- Er kennt die Überlieferung von **fünf elementaren Hütern**, die an seiner Erschaffung beteiligt waren – glaubt aber, dass **alle fünf** ihre Existenz geopfert haben, weil die Archive seines Ordens von Ishvar verfälscht wurden (0.4). Dass Ishvar überlebt hat, ist ihm unbekannt (KR-06).
 - Er weiß, dass in früheren Jahrhunderten mehrfach versucht wurde, die elementaren Heiligtümer zu verändern oder ihre Kräfte zu vereinen. Einer dieser Versuche führte zu einer schweren Katastrophe.
 
 **Das Geständnis in Akt III:**
 
 In den Archiven Avelas entdeckt die Gruppe Aufzeichnungen über einen Mann, der vor mehreren Jahrhunderten versuchte, das Große Rad zu zerstören. Die Beschreibungen dieses Mannes weisen auffällige Ähnlichkeiten mit Kiran auf.
+
+> **Präzisiert in 0.4 (K-32):** Die Ähnlichkeit ist **nicht äußerlich** – Kirans Inkarnationen sehen einander nicht ähnlich. Der Mann hinterließ **Skizzen einer Stadt mit hohen Türmen aus weißem Stein** und beschrieb einen wiederkehrenden Traum: genau Kirans Traum. Ishvar kann solche Ähnlichkeiten nicht nutzen, denn Träume erzeugen keine Störung im Äther (vgl. R-01, R-03).
 
 Tavan erkennt die Aufzeichnungen wieder und gesteht, dass er sie bereits vor Jahrzehnten studiert hat. Er weiß, dass dieser Mann für eine Katastrophe verantwortlich gemacht wurde, bei der Hunderttausende Menschen starben. Der Orden hatte die Aufzeichnungen anschließend versiegelt, weil ihre Veröffentlichung weitere Zerstörungsversuche auslösen könnte (→ [Kap. 12.5](12-urfragmente-und-orte-nirayas.md#125-kirans-früherer-zerstörungsversuch-und-die-geheimhaltung-des-ordens-k-20)).
 

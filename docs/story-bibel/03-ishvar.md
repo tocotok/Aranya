@@ -1,6 +1,6 @@
 # 3. Ishvar – Der Bewahrer
 
-> Story-Bibel · Version 0.3 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.4 · Spoiler-Stufe: **hoch**
 
 Ishvar ist der **zentrale Antagonist** der Geschichte.
 
@@ -27,6 +27,8 @@ Zunächst griff er nur in besonders schweren Krisen ein.
 Später manipulierte er politische Entscheidungen, beeinflusste Religionen und lenkte ganze Dynastien.
 
 Er ließ historische Aufzeichnungen verändern und Wissen über Niraya unterdrücken.
+
+> **Festgelegt in 0.4 (K-34, K-40):** Dazu gehören auch die Archive des Ordens der Stillen Winde in Avela. Ishvar ließ sie nicht vernichten, sondern **verfälschen**: Dort steht, alle **fünf** elementaren Hüter hätten sich bei der Erschaffung des Rades geopfert. So verschwand der Bewahrer aus der Geschichte. Die unverfälschte Wahrheit liegt nur noch im **Archiv der Ersten**, das Ishvar nicht betreten kann ([Kap. 12.3](12-urfragmente-und-orte-nirayas.md#123-die-verborgenen-orte-nirayas-k-18)).
 
 Seine ursprüngliche Aufgabe, die Welt zu bewahren, entwickelte sich langsam zum Anspruch, sie beherrschen zu müssen.
 

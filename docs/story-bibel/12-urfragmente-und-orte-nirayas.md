@@ -1,6 +1,6 @@
 # 12. Urfragmente, Resonanzen und die verborgenen Orte Nirayas
 
-> Story-Bibel · Version 0.3 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.4 · Spoiler-Stufe: **hoch**
 >
 > *(Festgelegt in Version 0.3, schließt die Konsistenz-Notizen K-15, K-16, K-18, K-19 und K-20)*
 
@@ -166,8 +166,8 @@ Diese Fähigkeit entwickelt sich **schrittweise im Verlauf von Akt III**.
 
 | Ort | Beschreibung | Warum Ishvar keinen Zugang hat | Im Spiel |
 |---|---|---|---|
-| **Das Archiv der Ersten** | Unterirdischer Wissensspeicher aus der Zeit Nirayas. Enthält Aufzeichnungen über die ursprüngliche Zivilisation, die sechs Wesen und die ersten Anzeichen des Großen Verstummens. | Der Zugang setzt eine ursprüngliche Signatur der Ewigkeit voraus. | Kiran öffnet es in **Akt III**. Hier erfährt die Gruppe erstmals, dass es neben den fünf elementaren Hütern ein **sechstes Wesen** gab. |
-| **Die Halle des Abschieds** | Uraltes Heiligtum, in dem die sechs Wesen vor der Erschaffung des Großen Rades zusammenkamen und die letzten Entscheidungen über Nirayas Schicksal trafen. Bewahrt Erinnerungen an die persönlichen Gespräche zwischen den Hütern. | – (nicht festgelegt, siehe K-35) | Zugänglich erst **gegen Ende von Akt III**. Kiran entdeckt, dass er und Ishvar einst enge Freunde waren, und dass das Rad nur als vorübergehende Rettung gedacht war. |
+| **Das Archiv der Ersten** | Unterirdischer Wissensspeicher aus der Zeit Nirayas. Enthält Aufzeichnungen über die ursprüngliche Zivilisation, die sechs Wesen und die ersten Anzeichen des Großen Verstummens. | Der Zugang setzt eine ursprüngliche Signatur der Ewigkeit voraus. | Kiran öffnet es in **Akt III**. Hier erfährt die Gruppe erstmals, dass es neben den fünf elementaren Hütern ein **sechstes Wesen** gab – und dass Ishvar als Bewahrer überlebt hat. Das Archiv enthält die unverfälschte Wahrheit, die in den Archiven Avelas durch Ishvar verändert wurde (0.4). |
+| **Die Halle des Abschieds** | Uraltes Heiligtum, in dem die sechs Wesen vor der Erschaffung des Großen Rades zusammenkamen und die letzten Entscheidungen über Nirayas Schicksal trafen. Bewahrt Erinnerungen an die persönlichen Gespräche zwischen den Hütern. | – (nicht festgelegt, siehe K-35) | Zugänglich erst **gegen Ende von Akt III**. Kiran entdeckt, dass er und Ishvar einst enge Freunde waren – zunächst nur als fremde Bilder ohne Gefühl; die vollständige Erinnerung folgt im Herzen des Rades (0.4, K-33) – und dass das Rad nur als vorübergehende Rettung gedacht war. |
 | **Die Schwelle der Ewigkeit** | Anlage im ursprünglichen Zentrum Nirayas, geschaffen, um die Verbindung zwischen den elementaren Kräften und der Ewigkeit zu untersuchen. Nach der Erschaffung des Rades vom übrigen Raum getrennt. | Ihre Schutzmechanismen unterscheiden den Äther des heutigen Rades von der ursprünglichen Ewigkeit. | Entscheidender Ort in **Akt IV**: Hinweise darauf, dass das Rad möglicherweise verändert oder beendet werden kann. Vollständige Funktionsweise **offen** – bei der Ausarbeitung des Finales zu konkretisieren. |
 
 ---

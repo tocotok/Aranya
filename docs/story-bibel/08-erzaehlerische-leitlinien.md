@@ -1,6 +1,6 @@
 # 8. Erzählerische Leitlinien
 
-> Story-Bibel · Version 0.3 · Spoiler-Stufe: gering
+> Story-Bibel · Version 0.4 · Spoiler-Stufe: gering
 
 Diese Leitlinien gelten für alle Inhalte, die aus der Story-Bibel entstehen – Dialoge, Nebenquests, Orte, Figuren und Handlungsaktionen.
 
@@ -22,6 +22,7 @@ Diese Leitlinien gelten für alle Inhalte, die aus der Story-Bibel entstehen –
 - Bereits in den ersten Spielstunden tauchen unauffällige Hinweise auf Kirans wahre Identität auf.
 - Dorfbewohner erzählen, dass der heilige Baum **manchmal im Schlaf spricht**. Die meisten halten das für alte Legenden.
 - Kiran berichtet gelegentlich von **wiederkehrenden Träumen** von einer unbekannten **Stadt mit hohen Türmen aus weißem Stein**. Er kann sich nicht erklären, woher diese Bilder stammen.
+- **Auflösung (0.4):** In Akt III tauchen in den Archiven Avelas Skizzen dieser Stadt auf, gezeichnet von Kirans früherer Inkarnation. Der Traum verbindet die Inkarnationen – nicht ihr Aussehen.
 - Erst in Akt III erkennt der Spieler, dass es Erinnerungen an Niraya sind.
 
 ### Frühe Hinweise auf Ishvars wahre Identität *(festgelegt in 0.2)*

@@ -1,6 +1,6 @@
 # Elemente, Hüter und Reiche
 
-> Abgeleitete Übersicht · Stand: Story-Bibel 0.3 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
+> Abgeleitete Übersicht · Stand: Story-Bibel 0.4 · Bei Abweichungen gilt die [Story-Bibel](../story-bibel/).
 
 ## Gesamtübersicht
 

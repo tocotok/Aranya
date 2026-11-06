@@ -1,6 +1,6 @@
 # 6. Die Handlung des Spiels
 
-> Story-Bibel · Version 0.3 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.4 · Spoiler-Stufe: **hoch**
 
 ## Aktübersicht
 
@@ -164,9 +164,9 @@ Die Führung des Ordens der Stillen Winde verweigert Tavan die Einsicht in die �
 In den Archiven Avelas findet die Gruppe Aufzeichnungen über einen Mann, der vor mehreren Jahrhunderten versuchte, das Rad zu zerstören, und der Kiran auffällig ähnelt. **Tavan gesteht**, diese Aufzeichnungen seit Jahrzehnten zu kennen und sich selbst für ihre Geheimhaltung eingesetzt zu haben. Kiran fühlt sich verraten. → [Kap. 10.1](10-gruppe.md#was-tavan-wirklich-weiß--und-sein-geständnis-in-akt-iii-festgelegt-in-03-k-17), [12.5](12-urfragmente-und-orte-nirayas.md#125-kirans-früherer-zerstörungsversuch-und-die-geheimhaltung-des-ordens-k-20)
 
 > **Orte und Ereignisse aus 0.3 in Akt III** (Reihenfolge noch festzulegen, siehe K-36):
-> - **Archiv der Ersten** – Kiran öffnet es mit der Signatur der Ewigkeit; die Gruppe erfährt erstmals von einem sechsten Wesen.
+> - **Archiv der Ersten** – Kiran öffnet es mit der Signatur der Ewigkeit; die Gruppe erfährt erstmals von einem sechsten Wesen und davon, dass Ishvar überlebt hat (die Archive Avelas sind verfälscht).
 > - **Rückkehr in Kirans Heimatdorf** – der Baum ist halb abgestorben, das Dorf überwuchert; Kiran tritt bewusst mit dem Urfragment Dharans in Verbindung und sieht die letzten Stunden Nirayas.
-> - **Halle des Abschieds** (gegen Ende des Aktes) – Kiran erfährt von seiner Freundschaft mit Ishvar und davon, dass das Rad nur eine vorübergehende Rettung sein sollte.
+> - **Halle des Abschieds** (gegen Ende des Aktes) – Kiran erfährt von seiner Freundschaft mit Ishvar (nur als Bilder, ohne Gefühl – die vollständige Erinnerung folgt in Akt IV) und davon, dass das Rad nur eine vorübergehende Rettung sein sollte.
 > - Kirans Fähigkeit, Anlagen Nirayas zu öffnen, wächst schrittweise (KR-04). → [Kap. 12.3](12-urfragmente-und-orte-nirayas.md#123-die-verborgenen-orte-nirayas-k-18)
 
 Dort erfährt sie erstmals vom **Großen Verstummen**.
@@ -178,6 +178,8 @@ Vier mächtige Wesen opferten ihre Existenz, um die Welt zu retten.
 Ein fünftes Wesen blieb zurück, um das Rad zu bewahren.
 
 Sein Name war Ishvar.
+
+> **Präzisiert in 0.4 (K-34):** Die Archive Avelas berichten – von Ishvar verfälscht – noch von **fünf** Opfern; daran glaubt auch Tavan. Erst das **Archiv der Ersten**, das Kiran mit seiner Signatur der Ewigkeit öffnet, zeigt die Wahrheit: vier Opfer, ein überlebender Bewahrer namens Ishvar und ein sechstes Wesen. Erst dadurch erkennt die Gruppe den Gelehrten.
 
 Die Gruppe erkennt, dass der freundliche Gelehrte, dem sie mehrfach begegnet ist, dieser ursprüngliche Hüter sein muss.
 
@@ -259,6 +261,8 @@ Dort existieren die Überreste unzähliger Bewusstseine, die über Jahrtausende 
 Kiran begegnet Erinnerungen seiner früheren Inkarnationen.
 
 Er erkennt, dass er und Ishvar einst enge Freunde waren.
+
+> **Präzisiert in 0.4 (K-33):** In der Halle des Abschieds (Akt III) hat Kiran von dieser Freundschaft nur *erfahren* – als fremde Bilder ohne Gefühl. Im Herzen des Rades *erinnert* er sich zum ersten Mal vollständig, und Ishvar erinnert sich zugleich mit ihm.
 
 - **Ishvar** wollte das Leben um jeden Preis bewahren.
 - **Kiran** glaubte, dass auch das Ende eines Lebens einen notwendigen Platz in der Welt besitzt.

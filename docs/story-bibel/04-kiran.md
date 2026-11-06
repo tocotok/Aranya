@@ -1,6 +1,6 @@
 # 4. Kiran – Die Ewigkeit
 
-> Story-Bibel · Version 0.3 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.4 · Spoiler-Stufe: **hoch**
 
 Kiran ist der **Protagonist** des Spiels.
 
@@ -58,6 +58,7 @@ Er trägt die Verantwortung für Entscheidungen, an die er sich nicht erinnern k
 | Magie zu Beginn | Keine außergewöhnlichen Fähigkeiten |
 | Wahre Natur | Inkarnation der Ewigkeit, des sechsten ursprünglichen Wesens |
 | Beziehung zu Ishvar | Einst enge Freunde; Mitschöpfer des Großen Rades |
+| Bindung an das Rad | Freiwillig (0.4, K-23) |
 | Weltanschauung (ursprünglich) | Auch das Ende eines Lebens besitzt einen notwendigen Platz in der Welt |
 
 ## Was Ishvar Kiran antun kann – und was nicht
@@ -91,3 +92,5 @@ Kirans Verbindung zur Ewigkeit existierte bereits vor dem Großen Rad und ist de
 ## Wiederkehrender Traum
 
 Kiran berichtet gelegentlich von einem wiederkehrenden Traum: eine unbekannte **Stadt mit hohen Türmen aus weißem Stein**. Er kann sich nicht erklären, woher diese Bilder stammen. Erst in Akt III erkennt der Spieler, dass es Erinnerungen an **Niraya** sind. *(Festgelegt in 0.2)*
+
+In den Archiven Avelas findet die Gruppe Skizzen genau dieser Stadt, gezeichnet von jener früheren Inkarnation, die das Rad zerstören wollte – Kirans Inkarnationen teilen nicht ihr Aussehen, aber diesen Traum. *(0.4, K-32)*

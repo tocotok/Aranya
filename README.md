@@ -12,7 +12,7 @@
 | **Geplanter Umfang** | 40–60 Stunden Hauptgeschichte |
 | **Spielbare Charaktere** | 8 feste Gruppenmitglieder + 2 Gastmitglieder (nur zeitweise spielbar) |
 | **Struktur** | Vier große Handlungsakte |
-| **Story-Bibel** | Version 0.3 |
+| **Story-Bibel** | Version 0.4 |
 
 ## Aufbau der Dokumentation
 

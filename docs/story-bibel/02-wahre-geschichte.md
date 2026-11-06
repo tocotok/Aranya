@@ -1,12 +1,12 @@
 # 2. Die wahre Geschichte der Welt
 
-> Story-Bibel · Version 0.3 · Spoiler-Stufe: **hoch**
+> Story-Bibel · Version 0.4 · Spoiler-Stufe: **hoch**
 >
 > Dieser Abschnitt beschreibt die tatsächliche Mythologie Aranyas. Der Spieler erfährt diese Zusammenhänge erst schrittweise im Verlauf der Handlung.
 
 ## 2.1 Das erste Zeitalter – Niraya
 
-Vor mehr als dreitausend Jahren existierte nur ein einziges großes Reich: **Niraya**.
+Vor etwas mehr als dreitausend Jahren existierte nur ein einziges großes Reich: **Niraya**.
 
 Niraya war eine hochentwickelte Zivilisation, in der Menschen, Natur und elementare Magie in einem empfindlichen Gleichgewicht miteinander verbunden waren.
 
@@ -103,7 +103,7 @@ Als Verkörperung des Äthers musste er die Kräfte der vier anderen Elemente mi
 
 Er erhielt die Aufgabe, das Große Rad zu bewahren, **bis die Welt eines Tages wieder ohne seine Hilfe existieren konnte**.
 
-**Kiran**, die Verkörperung der Ewigkeit, wurde ebenfalls Teil des Rades.
+**Kiran**, die Verkörperung der Ewigkeit, wurde ebenfalls Teil des Rades. **Er band sich freiwillig an den Kreislauf** *(festgelegt in 0.4, K-23)*. Damit trägt er nicht nur Verantwortung für die Taten früherer Leben, sondern auch für die ursprüngliche Entscheidung, Teil des Rades zu werden.
 
 Seine Kraft sollte sicherstellen, dass der Kreislauf sich immer wieder erneuern konnte.
 
@@ -122,6 +122,10 @@ Das Große Rad war vollendet.
 Niraya verschwand als zusammenhängende Zivilisation.
 
 Und das zweite Zeitalter begann.
+
+> **Zeitalter (0.4, K-26):** Offiziell lebt die Welt bis heute im **zweiten Zeitalter**. „Das letzte Zeitalter“ ist ein Begriff aus alten Texten des Ordens der Stillen Winde für die Endphase des Großen Rades. Je nach Ende des Spiels erweist sich der Titel als Prophezeiung oder als Irrtum.
+>
+> **Zeitangabe (0.4, K-27):** Einheitlich „etwas mehr als 3.000 Jahre“; „ca. 3.000 Jahre“ ist als Näherung zulässig.
 
 ## 2.4 Die Grenzen des Großen Rades
 
